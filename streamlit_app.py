@@ -44,6 +44,17 @@ def filter_data(title, search_term):
                                       (filtered_data['KeyComments'].str.lower().str.contains(search_term_lower, na=False))]
     return filtered_data
 
+# Define a function to filter data based on selected title and search term
+def filter_data(title, search_term):
+    filtered_data = pulps_long
+    if title:
+        filtered_data = filtered_data[filtered_data['Title'] == title]
+    if search_term:
+        search_term_lower = search_term.lower()
+        filtered_data = filtered_data[(filtered_data['ArtComments'].str.lower().str.contains(search_term_lower, na=False)) | 
+                                      (filtered_data['KeyComments'].str.lower().str.contains(search_term_lower, na=False))]
+    return filtered_data
+
 # Define a function to update the bar chart based on the selected titles and search term
 def update_plot(title1, title2, search_term1, search_term2):
     filtered_data1 = filter_data(title1, search_term1)
@@ -54,9 +65,17 @@ def update_plot(title1, title2, search_term1, search_term2):
     
     # Calculate total value for each grade for title 1
     grade_totals1 = filtered_data1.groupby('Grade')['Value'].sum().reset_index(name='Total Value')
+    if not filtered_data1.empty:
+        weighted_avg_grade1 = (filtered_data1['Grade'] * filtered_data1['Value']).sum() / filtered_data1['Value'].sum()
+        weighted_avg_grade1 = round(weighted_avg_grade1, 2)
+        total_graded1 = filtered_data1['Value'].sum()
     
     # Calculate total value for each grade for title 2
     grade_totals2 = filtered_data2.groupby('Grade')['Value'].sum().reset_index(name='Total Value')
+    if not filtered_data2.empty:
+        weighted_avg_grade2 = (filtered_data2['Grade'] * filtered_data2['Value']).sum() / filtered_data2['Value'].sum()
+        weighted_avg_grade2 = round(weighted_avg_grade2, 2)
+        total_graded2 = filtered_data2['Value'].sum()
     
     # Plot
     fig, axes = plt.subplots(1, 2, figsize=(15, 6))
@@ -68,6 +87,8 @@ def update_plot(title1, title2, search_term1, search_term2):
         axes[0].set_ylabel('Total Value')
         axes[0].set_xticks(np.arange(11))
         axes[0].legend()
+        axes[0].text(0.5, -0.25, f'Weighted Average Grade: {weighted_avg_grade1}', horizontalalignment='center', verticalalignment='center', transform=axes[0].transAxes)
+        axes[0].text(0.5, -0.30, f'Total Graded: {total_graded1}', horizontalalignment='center', verticalalignment='center', transform=axes[0].transAxes)
     
     if not filtered_data2.empty:
         axes[1].bar(grade_totals2['Grade'], grade_totals2['Total Value'], width=0.4, color='orange', label=title2)
@@ -76,6 +97,8 @@ def update_plot(title1, title2, search_term1, search_term2):
         axes[1].set_ylabel('Total Value')
         axes[1].set_xticks(np.arange(11))
         axes[1].legend()
+        axes[1].text(0.5, -0.25, f'Weighted Average Grade: {weighted_avg_grade2}', horizontalalignment='center', verticalalignment='center', transform=axes[1].transAxes)
+        axes[1].text(0.5, -0.30, f'Total Graded: {total_graded2}', horizontalalignment='center', verticalalignment='center', transform=axes[1].transAxes)
     
     # Show plot
     st.pyplot(fig)
@@ -96,7 +119,6 @@ with col2:
 # Create button to update plot
 if st.button('Update Plot'):
     update_plot(title_dropdown1, title_dropdown2, search_box1, search_box2)
-
 # num_points = st.slider("Number of points in spiral", 1, 10000, 1100)
 # num_turns = st.slider("Number of turns in spiral", 1, 300, 31)
 
