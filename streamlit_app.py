@@ -7,6 +7,7 @@ import seaborn as sns
 import datetime
 import matplotlib.pyplot as plt
 from ipywidgets import interact, Dropdown, widgets, VBox, HBox, Layout, interactive
+import streamlit as st
 
 """
 # Welcome to Streamlit!
