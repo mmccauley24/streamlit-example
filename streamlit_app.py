@@ -10,13 +10,12 @@ from ipywidgets import interact, Dropdown, widgets, VBox, HBox, Layout, interact
 import streamlit as st
 
 """
-# Welcome to Streamlit!
+# CGC Pulp Analytics
 
-Edit `/streamlit_app.py` to customize this app to your heart's desire :heart:.
-If you have any questions, checkout our [documentation](https://docs.streamlit.io) and [community
-forums](https://discuss.streamlit.io).
+Filter by titles or search for art/key comments to compare the current pulp census of CGC graded books!
 
-In the meantime, below is an example of what you can do with just a few lines of code:
+Brought to you by RarePulps
+
 """
 pulps = pd.read_csv('CGC_GRADED_PULPS.csv')
 pulps = pulps.drop(pulps.columns[-1], axis=1)
@@ -96,12 +95,12 @@ def update_plot(title1, title2, search_term1, search_term2):
 col1, col2 = st.columns(2)
 
 with col1:
-    title_dropdown1 = st.selectbox('Title 1:', [''] + list(unique_titles), index=0)
+    title_dropdown1 = st.selectbox('Title 1:', [''] + list(unique_titles), index=121)
     search_box1 = st.text_input('Search Term for Title 1:')
     st.text(" ")  # Add empty space for better alignment
 
 with col2:
-    title_dropdown2 = st.selectbox('Title 2:', [''] + list(unique_titles), index=0)
+    title_dropdown2 = st.selectbox('Title 2:', [''] + list(unique_titles), index=12)
     search_box2 = st.text_input('Search Term for Title 2:')
     st.text(" ")  # Add empty space for better alignment
 
