@@ -14,7 +14,7 @@ import streamlit as st
 
 Filter by titles or search for art/key comments to compare the current pulp census of CGC graded books!
 
-Brought to you by RarePulps
+Brought to you by RarePulps and Fanalytics
 
 """
 pulps = pd.read_csv('CGC_GRADED_PULPS.csv')
