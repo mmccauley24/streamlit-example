@@ -44,41 +44,44 @@ def filter_data(title, search_term):
                                       (filtered_data['KeyComments'].str.lower().str.contains(search_term_lower, na=False))]
     return filtered_data
 
-# Define a function to update the bar chart based on the selected title and search term
-def update_plot(title, search_term):
-    filtered_data = filter_data(title, search_term)
-    if filtered_data.empty:
+# Define a function to update the bar chart based on the selected titles and search term
+def update_plot(title1, title2, search_term1, search_term2):
+    filtered_data1 = filter_data(title1, search_term1)
+    filtered_data2 = filter_data(title2, search_term2)
+    if filtered_data1.empty and filtered_data2.empty:
         st.write("No data to display.")
         return
     
-    # Calculate total value for each grade
-    grade_totals = filtered_data.groupby('Grade')['Value'].sum().reset_index(name='Total Value')
+    # Calculate total value for each grade for title 1
+    grade_totals1 = filtered_data1.groupby('Grade')['Value'].sum().reset_index(name='Total Value')
     
-    # Calculate weighted average grade
-    weighted_avg_grade = (filtered_data['Grade'] * filtered_data['Value']).sum() / filtered_data['Value'].sum()
-    weighted_avg_grade = round(weighted_avg_grade, 2)
+    # Calculate total value for each grade for title 2
+    grade_totals2 = filtered_data2.groupby('Grade')['Value'].sum().reset_index(name='Total Value')
     
     # Plot
     fig, ax = plt.subplots(figsize=(10, 6))
-    ax.bar(grade_totals['Grade'], grade_totals['Total Value'], color='skyblue')
+    if not filtered_data1.empty:
+        ax.bar(grade_totals1['Grade'] - 0.2, grade_totals1['Total Value'], width=0.4, color='skyblue', label=title1)
+    if not filtered_data2.empty:
+        ax.bar(grade_totals2['Grade'] + 0.2, grade_totals2['Total Value'], width=0.4, color='orange', label=title2)
     ax.set_xlabel('Grade')
     ax.set_ylabel('Total Value')
     ax.set_title('Total Value by Grade')
     ax.set_xticks(np.arange(11))
-    
-    # Add text for weighted average grade
-    ax.text(0.5, -0.15, f'Weighted Average Grade: {weighted_avg_grade}', horizontalalignment='center', verticalalignment='center', transform=ax.transAxes)
+    ax.legend()
     
     # Show plot
     st.pyplot(fig)
 
 # Create widgets
-title_dropdown = st.selectbox('Title:', [''] + list(unique_titles), index=0)
-search_box = st.text_input('Search Term:')
+title_dropdown1 = st.selectbox('Title 1:', [''] + list(unique_titles), index=0)
+search_box1 = st.text_input('Search Term for Title 1:')
+title_dropdown2 = st.selectbox('Title 2:', [''] + list(unique_titles), index=0)
+search_box2 = st.text_input('Search Term for Title 2:')
 
 # Create button to update plot
 if st.button('Update Plot'):
-    update_plot(title_dropdown, search_box)
+    update_plot(title_dropdown1, title_dropdown2, search_box1, search_box2)
 
 
 # num_points = st.slider("Number of points in spiral", 1, 10000, 1100)
