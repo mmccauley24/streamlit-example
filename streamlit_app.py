@@ -92,20 +92,18 @@ def update_plot(title1, title2, search_term1, search_term2):
     # Show plot
     st.pyplot(fig)
 
-# Default values for filters
-default_title1 = 'Weird Tales'
-default_title2 = 'Amazing Stories'
-
 # Create widgets
 col1, col2 = st.columns(2)
 
 with col1:
-    title_dropdown1 = st.selectbox('Title 1:', [''] + list(unique_titles), index=np.where(unique_titles == default_title1)[0][0], key='title1')
-    search_box1 = st.text_input('Search Term for Title 1:', key='search1')
+    title_dropdown1 = st.selectbox('Title 1:', [''] + list(unique_titles), index=0)
+    search_box1 = st.text_input('Search Term for Title 1:')
+    st.text(" ")  # Add empty space for better alignment
 
 with col2:
-    title_dropdown2 = st.selectbox('Title 2:', [''] + list(unique_titles), index=np.where(unique_titles == default_title2)[0][0], key='title2')
-    search_box2 = st.text_input('Search Term for Title 2:', key='search2')
+    title_dropdown2 = st.selectbox('Title 2:', [''] + list(unique_titles), index=0)
+    search_box2 = st.text_input('Search Term for Title 2:')
+    st.text(" ")  # Add empty space for better alignment
 
 # Create button to update plot
 if st.button('Update Plot'):
