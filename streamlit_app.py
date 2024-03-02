@@ -12,7 +12,7 @@ import streamlit as st
 """
 # CGC Pulp Analytics
 
-Filter by titles or search for art/key comments to compare the current pulp census of CGC graded books!
+Filter by titles or search for art/key comments and press Update Plot to compare the current pulp census of CGC graded books!
 
 Brought to you by RarePulps and Fanalytics
 
@@ -95,17 +95,14 @@ def update_plot(title1, title2, search_term1, search_term2):
 col1, col2 = st.columns(2)
 
 with col1:
-    title_dropdown1 = st.selectbox('Title 1:', [''] + list(unique_titles), index=121)
+    title_dropdown1 = st.selectbox('Title 1:', [''] + list(unique_titles), index=0)
     search_box1 = st.text_input('Search Term for Title 1:')
     st.text(" ")  # Add empty space for better alignment
 
 with col2:
-    title_dropdown2 = st.selectbox('Title 2:', [''] + list(unique_titles), index=12)
+    title_dropdown2 = st.selectbox('Title 2:', [''] + list(unique_titles), index=0)
     search_box2 = st.text_input('Search Term for Title 2:')
     st.text(" ")  # Add empty space for better alignment
-
-# Update plot with default values
-update_plot('Weird Tales', 'Amazing Stories', '', '')
 
 # Create button to update plot
 if st.button('Update Plot'):
