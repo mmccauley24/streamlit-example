@@ -59,30 +59,43 @@ def update_plot(title1, title2, search_term1, search_term2):
     grade_totals2 = filtered_data2.groupby('Grade')['Value'].sum().reset_index(name='Total Value')
     
     # Plot
-    fig, ax = plt.subplots(figsize=(10, 6))
+    fig, axes = plt.subplots(1, 2, figsize=(15, 6))
+    
     if not filtered_data1.empty:
-        ax.bar(grade_totals1['Grade'] - 0.2, grade_totals1['Total Value'], width=0.4, color='skyblue', label=title1)
+        axes[0].bar(grade_totals1['Grade'], grade_totals1['Total Value'], width=0.4, color='skyblue', label=title1)
+        axes[0].set_title(title1)
+        axes[0].set_xlabel('Grade')
+        axes[0].set_ylabel('Total Value')
+        axes[0].set_xticks(np.arange(11))
+        axes[0].legend()
+    
     if not filtered_data2.empty:
-        ax.bar(grade_totals2['Grade'] + 0.2, grade_totals2['Total Value'], width=0.4, color='orange', label=title2)
-    ax.set_xlabel('Grade')
-    ax.set_ylabel('Total Value')
-    ax.set_title('Total Value by Grade')
-    ax.set_xticks(np.arange(11))
-    ax.legend()
+        axes[1].bar(grade_totals2['Grade'], grade_totals2['Total Value'], width=0.4, color='orange', label=title2)
+        axes[1].set_title(title2)
+        axes[1].set_xlabel('Grade')
+        axes[1].set_ylabel('Total Value')
+        axes[1].set_xticks(np.arange(11))
+        axes[1].legend()
     
     # Show plot
     st.pyplot(fig)
 
 # Create widgets
-title_dropdown1 = st.selectbox('Title 1:', [''] + list(unique_titles), index=0)
-search_box1 = st.text_input('Search Term for Title 1:')
-title_dropdown2 = st.selectbox('Title 2:', [''] + list(unique_titles), index=0)
-search_box2 = st.text_input('Search Term for Title 2:')
+col1, col2 = st.columns(2)
+
+with col1:
+    title_dropdown1 = st.selectbox('Title 1:', [''] + list(unique_titles), index=0)
+    search_box1 = st.text_input('Search Term for Title 1:')
+    st.text(" ")  # Add empty space for better alignment
+
+with col2:
+    title_dropdown2 = st.selectbox('Title 2:', [''] + list(unique_titles), index=0)
+    search_box2 = st.text_input('Search Term for Title 2:')
+    st.text(" ")  # Add empty space for better alignment
 
 # Create button to update plot
 if st.button('Update Plot'):
     update_plot(title_dropdown1, title_dropdown2, search_box1, search_box2)
-
 
 # num_points = st.slider("Number of points in spiral", 1, 10000, 1100)
 # num_turns = st.slider("Number of turns in spiral", 1, 300, 31)
