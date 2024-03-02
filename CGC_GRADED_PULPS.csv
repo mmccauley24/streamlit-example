@@ -1,0 +1,589 @@
+ComicID,Title,Issue_Num,Issue_Date,Issue_Year,Publisher,Country,ArtComments,KeyComments,Label_Category,POP_0_5,POP_1_0,POP_1_5,POP_1_8,POP_2_0,POP_2_5,POP_3_0,POP_3_5,POP_4_0,POP_4_5,POP_5_0,POP_5_5,POP_6_0,POP_6_5,POP_7_0,POP_7_5,POP_8_0,POP_8_5,POP_9_0,POP_9_2,POP_9_4,POP_9_6,POP_9_8,POP_9_9,POP_10_0,CG_POP_TOTAL
+9000562,10 Story Mystery Magazine,6,Oct-42,1942,Popular, ,  ,  ,Universal,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+5009726,10 True Crime Cases,v3 #3,Jun-49,1949,Current Detective Stories, ,"Joseph Fishman, Howard Stan, Glenn Shirley, Edward Sullivan & Michael Fiaschett text ",  ,Universal,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+5018444,10-Story Detective,v9 #2,Nov-43,1943,"Periodical House, Inc.", ,"Duane Yarnell, David M. Norman, Gregg Cargill, Vernon Shuffett, Jr. & Stan Knowlton stories ",  ,Universal,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9000793,10-Story Detective Magazine,34,Nov-43,1943,Ace, ,Cover by Allen Anderson Warren Kremer & Sam Cooper art ,  ,Universal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+9000800,10-Story Detective Magazine,41,Feb-45,1945,Ace, ,Cover by Ernest Chiriacka Leo Moley art ,  ,Universal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+9000979,Ace G-Man Stories,10,Nov/Dec 1937,1937,Popular, ,Emile C. Tepperman & W.T. Ballard story ,  ,Universal,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9001013,Ace Mystery,3,Sep-36,1936,Ace, ,Cover by Rafael DeSoto F. C. Davis & Charles M. Warren story J.M. Wilcox art,Last issue.  ,Universal,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+9001083,Ace-High Detective Magazine,2,Sep-36,1936,Popular, ,Cover by Malvin Singer Carroll John Daly story ,  ,Universal,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9002610,Adventure,422,1-Aug-29,1929,Ridgway, ,Cover by Emmett Watson  ,  ,Universal,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9001862,Adventure,544,15-Apr-35,1935,Popular, ,"Ray Dean cover. Gordon MacCreagh & Bill Adams story. N. O'Keeeffe, I.B. Hazelton, Ray Dean & V.E. Pyles art",Cover used for Adventure Comics #34 (January 1939) ,Universal,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+5019789,Adventure,967,11-May-40,1940,D.C. Thomson & Co.,United Kingdom,  ,Hitler bondage cover.  ,Universal,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+5008771,Adventure,976,13-Jul-40,1940,D.C. Thomson & Co.,United Kingdom,  ,Adolf Hitler cover & stories.  ,Universal,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9003493,All Detective Magazine,12,Oct-33,1933,Dell Publishing, ,Cover by Norman Saunders Erle Stanley Gardner story ,  ,Universal,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9003499,All Detective Magazine,18,Apr-34,1934,Dell Publishing, ,Cover by Rafael DeSoto  ,  ,Universal,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9003830,All-Story,108,Dec-13,1913,Munsey, ,1st Mars series cover.  ,"""The Warlord of Mars"" part 1 of 4 by Edgar Rice Burroughs. 1st Mars series.",Universal,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9003816,All-Story,94,Oct-12,1912,Munsey, ,Classic cover by Clinton Pettee Edgar Rice Burroughs 2nd published story ,1st app. Tarzan of the Apes by Edgar Rice Burroughs. 1st published image of Tarzan.,Universal,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+9004696,All-Story Weekly,368,1-Feb-19,1919,Munsey, ,Cover by P. J. Monahan George Allan England story ,  ,Universal,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9004722,All-Story Weekly,394,2-Aug-19,1919,Munsey, ,"H. Bedford-Jones, Murray Leinster stories ",  ,Universal,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9004828,Amazing Stories,1,Apr-26,1926,Gernsback Publications, ,Frank R. Paul cover & art  ,"H.G. Wells, Hugo Gernsback, Jules Verne & George Allan England stories ",Universal,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9004927,Amazing Stories,100,Aug-34,1934,Teck, ,Leo Morey cover & art Jules Verne story ,Classic cover.  ,Universal,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+9004928,Amazing Stories,101,Sep-34,1934,Teck, ,Cover by Leo Morey Clark Ashton Smith story ,  ,Universal,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9004953,Amazing Stories,126,Dec-37,1937,Teck, ,Cover by Leo Morey  ,  ,Universal,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+9004982,Amazing Stories,128,Apr-38,1938,Ziff-Davis Pub., ,Leo Morey cover & art Otto Binder story ,  ,Universal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,2
+9004983,Amazing Stories,129,Jun-38,1938,Ziff-Davis Pub., ,Horace Hime cover  ,  ,Universal,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+9004984,Amazing Stories,130,Aug-38,1938,Ziff-Davis Pub., ,"Henry F. Kroeger, Jr. cover Robert Bloch story ",  ,Universal,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+9004985,Amazing Stories,131,Oct-38,1938,Ziff-Davis Pub., ,Robert Fuqua cover Stanley G. Weinbaum & Ray Cummings stories,  ,Universal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1
+9004986,Amazing Stories,132,Nov-38,1938,Ziff-Davis Pub., ,Robert Fuqua cover & art Ed Hamilton & S. G. Weinbaum stories Julian Kupra art,Classic cover.  ,Universal,0,0,0,0,0,0,0,0,0,0,1,0,2,0,2,0,0,0,0,0,0,0,0,0,0,5
+9004988,Amazing Stories,134,Jan-39,1939,Ziff-Davis Pub., ,Robert Fuqua cover & art Manly Wade Wellman story Julian Kupra art,"Classic robot cover. ""I, Robot"" by Otto Binder. 1st appearance Adam Link.",Universal,0,0,0,0,0,0,0,0,0,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,4
+9004989,Amazing Stories,135,Feb-39,1939,Ziff-Davis Pub., ,Robert Fuqua cover & art Otto Binder story Julian Kupra & Joe Sewell,  ,Universal,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,2
+9004990,Amazing Stories,136,Mar-39,1939,Ziff-Davis Pub., ,Robert Fuqua cover & art Edmond Hamilton & Robert Bloch & Otto Binder story,"""Marooned off Vesta"" by Isaac Asimov, his 1st published Science-Fiction story",Universal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+9004991,Amazing Stories,137,Apr-39,1939,Ziff-Davis Pub., ,Robert Fuqua cover Otto Binder story Julian Kupra & Joe Sewell art,  ,Universal,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,2
+9004992,Amazing Stories,138,May-39,1939,Ziff-Davis Pub., ,Robert Fuqua & W. Juhre covers Isaac Asimov story Julian Kupra art,"""The Weapon Too Dreadful to Use"" by Isaac Asimov, his 2nd published Science -Fiction story",Universal,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+9004993,Amazing Stories,139,Jun-39,1939,Ziff-Davis Pub., ,William Juhre & Frank R. Paul covers  ,  ,Universal,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9004994,Amazing Stories,140,Jul-39,1939,Ziff-Davis Pub., ,Robert Fuqua cover & art Rbert Williams story Julian Krupa & Leo Morey art,Adam Link story by Otto Binder  ,Universal,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,2
+9005016,Amazing Stories,162,May-41,1941,Ziff-Davis Pub., ,J. Allen St. John cover Julius Schwartz story ,"Classic Spider cover. ""Adam Link"" story by Otto Binder ",Universal,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+9005017,Amazing Stories,163,Jun-41,1941,Ziff-Davis Pub., ,J. Allen St. John cover & art. Frank R. Paul back cover Robert Fuqua & J. S. Krupa art,"""Black Pirates of Barsoom"" by Edgar Rice Burroughs. ",Universal,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+9005019,Amazing Stories,165,Aug-41,1941,Ziff-Davis Pub., ,J. Allen St. John cover & art. Frank R. Paul back cover. Robert Fuqua & J. S. Krupa art,"""Yellow Men of Mars"" by Edgar Rice Burroughs. ",Universal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,2
+9005021,Amazing Stories,167,Oct-41,1941,Ziff-Davis Pub., ,J. Allen St. John cover & art. Robert Fuqua & J. S. Krupa art ,"""Invisible Men of Mars"" by Edgar Rice Burroughs. ",Universal,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+9004844,Amazing Stories,17,Aug-27,1927,Gernsback Publications, ,"Frank R. Paul cover & art H.G. Wells, Hugo Gernsback stories ","Classic ""War of the Worlds"" cover.  ",Universal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1
+9005027,Amazing Stories,173,Apr-42,1942,Ziff-Davis Pub., ,"Cover by Robert Fuqua Edmond Hamilton, Nelson Bond, Raymond A. Palmer stories","Classic Robot cover. ""Tiger Girl"" by Edgar Rice Burroughs. ""Adam Link"" story by Otto Binder",Universal,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9005029,Amazing Stories,175,Jun-42,1942,Ziff-Davis Pub., ,Malcolm Smith cover. Manly Wade Wellman & Nelson Bond story. Robert Fuqua art.,  ,Universal,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9005030,Amazing Stories,176,Jul-42,1942,Ziff-Davis Pub., ,"J. Allen St. John cover & art. Ray Cummings, Nelson Bond stories Robert Fuqua & J. S. Krupa art",Classic dinosaur cover.  ,Universal,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,2
+9005031,Amazing Stories,177,Aug-42,1942,Ziff-Davis Pub., ,"Harold W. McCauley cover Henry Kuttner, Nelson Bond stories Robert Fuqua & Joe Sewell art",  ,Universal,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,2
+9005032,Amazing Stories,178,Sep-42,1942,Ziff-Davis Pub., ,Cover & art by James B. Settles Nelson Bond story Robert Fuqua art,  ,Universal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+9005033,Amazing Stories,179,Oct-42,1942,Ziff-Davis Pub., ,Malcolm Smith cover. Nelson Bond story Robert Fuqua & J. Allen St. John art,  ,Universal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+9005035,Amazing Stories,181,Dec-42,1942,Ziff-Davis Pub., ,J. Allen St. John cover & art. Edmond Hamilton story. Robert Fuqua & Joe Sewell art,  ,Universal,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+9005036,Amazing Stories,182,Jan-43,1943,Ziff-Davis Pub., ,J. Allen St. John cover & art Virgil Finlay & Robert Fuqua art ,Classic dinosaur cover.  ,Universal,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+9005037,Amazing Stories,183,Feb-43,1943,Ziff-Davis Pub., ,J. Allen St. John cover & art Frank R. Paul back cover Stanley G. Weinbaum story,"""Skeleton Men of Jupiter"" by Edgar Rice Burroughs. ",Universal,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+9005041,Amazing Stories,187,Jun-43,1943,Ziff-Davis Pub., ,Malcolm H. Smith cover. Frank R. Paul back cover. Robert Fuqua & Julian Krupa art,  ,Universal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+9005042,Amazing Stories,188,Jul-43,1943,Ziff-Davis Pub., ,Harold W. McCauley cover & art Virgil Finlay & Robert Fuqua art ,  ,Universal,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,2
+9005043,Amazing Stories,189,Aug-43,1943,Ziff-Davis Pub., ,Robert Fuqua cover Frank R. Paul back cover ,  ,Universal,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+9005044,Amazing Stories,190,Sep-43,1943,Ziff-Davis Pub., ,Robert Gibson Jones cover & art Robert Fuqua & J. Allen St. John art ,  ,Universal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+9005046,Amazing Stories,192,Jan-44,1944,Ziff-Davis Pub., ,Robert Fuqua cover & art  ,  ,Universal,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,2
+9005047,Amazing Stories,193,Mar-44,1944,Ziff-Davis Pub., ,J. Allen St. John cover & art. Robert Bloch story Virgil Finlay & Robert Fuqua art.,Classic skull cover. Letter to Editor by 15-year old Philip K. Dick.,Universal,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0,3
+9005073,Amazing Stories,219,Oct-47,1947,Ziff-Davis Pub., ,Cover by Robert Gibson Jones  ,  ,Universal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+9005075,Amazing Stories,221,Dec-47,1947,Ziff-Davis Pub., ,Robert Gibson Jones cover J. Allen St. John art ,  ,Universal,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+9005081,Amazing Stories,227,Jun-48,1948,Ziff-Davis Pub., ,Cover by Robert Gibson Jones  ,Classic cover.  ,Universal,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+9005085,Amazing Stories,231,Oct-48,1948,Ziff-Davis Pub., ,James B. Settles cover J. Allen St. John art Raymond A. Palmer story,  ,Universal,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2
+9004863,Amazing Stories,36,Mar-29,1929,Gernsback Publications, ,Frank R. Paul cover & art Hugo Gernsback story ,"1st cover appearance Buck Rogers, 2nd and final appearance in pulps. ",Universal,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9004917,Amazing Stories,90,Oct-33,1933,Teck, ,Leo Morey cover & art  ,First pulp format issue.  ,Universal,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9004919,Amazing Stories,92,Dec-33,1933,Teck, ,"Cover by Leo Morey Otis Adelbert Kline, Jules Verne stories ",  ,Universal,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,2
+9006349,Argosy,1257,9-Jan-37,1937,Munsey, ,"Cover by Emmett Watson Johnston MuCulley, L. Ron Hubbard stories","""Seven Worlds to Conquer"" part 1 of 6 by Edgar Rice Burroughs. Classic dragon cover.",Universal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+9007427,Astonishing Stories,1,Feb-40,1940,Popular, ,Jack Binder cover Isaac Asimov & Manly Wade Wellman story ,  ,Universal,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+9007730,Astounding Stories,25,Jan-32,1932,Clayton, ,H. W. Wesso cover & interior Harl Vincent story ,Gorilla on skyscraper precedes King Kong  ,Universal,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+9007768,Astounding Stories,63,Feb-36,1936,Street & Smith Pub., ,Cover by Howard V. Brown H.P. Lovecraft & Frank B. Long story H.W. Wesso art,"""At The Mountains of Madness"" pt. 1 of 3 by H. P. Lovecraft. 1st factory trimmed pulp issue.",Universal,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+9007810,Avenger,1,Sep-39,1939,Street & Smith Pub., ,Cover by H. W. Scott Kenneth Robeson story ,  ,Universal,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+118497,Big Book Romances,1,Feb-50,1950,Fawcett Publications, ,  ,Remaindered Fawcett romance comics. Several interior combinations possible. Only issue.,Universal,0,0,0,0,0,0,0,0,0,0,0,0,1,3,1,0,1,0,0,0,0,1,0,0,0,7
+9008666,Black Book Detective,62,Summer 1944,1944,Standard, ,Cover by Rudolph Belarski C.A. Murphy art ,  ,Universal,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+5022602,Candid Confessions,v1 #1,Oct-37,1937,Popular Publications, ,  ,  ,Universal,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9010592,Capt. Hazzard Magazine,1,May-38,1938,Ace, ,Cover by Norman Saunders  ,  ,Universal,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+5003362,"Captain Billy's Whiz Bang",166,Aug-32,1932,Fawcett Publications, ,  ,  ,Universal,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+222484,"Captain Billy's Whiz Bang",172,Feb-33,1933,Fawcett Publications, ,Eddie Miller cover  ,  ,Universal,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+222485,"Captain Billy's Whiz Bang",178,Aug-33,1933,Fawcett Publications, ,"Nathan Reed and E.A. Sumner text Ward Story, Don Ulsh, Phil Phillips and Tish Tash art",  ,Universal,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9010618,Captain Zero,1,Nov-49,1949,Popular, ,Cover by Rafael DeSoto  ,  ,Universal,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+5022211,College Humor,100,Apr-32,1932,Collegiate World Pub., ,Rolf Armstrong cover  ,"""Back to Nature"" by Walt Disney and Dorothy Ann Blank. ",Universal,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+5022209,College Humor,95,Nov-31,1931,Collegiate World Pub., ,Rolf Armstrong cover  ,"""Mickey Mouse Turns Romeo"" by Walt Disney Studios. ""The Game Preserve"" by Dr. Seuss. ",Universal,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9011094,Complete Cowboy,1,Jan-39,1939,Columbia, ,  ,  ,Universal,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9011136,Complete Detective,1,May-38,1938,Red Circle, ,Cover by Norman Saunders  ,Classic skeleton cover.  ,Universal,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9011137,Complete Detective,2,Aug-38,1938,Red Circle, ,Cover by Norman Saunders Hugh B. Cave story ,  ,Universal,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+5008372,Complete Detective Cases,v4 #8,Sep-42,1942,Postal Publications Inc., ,  ,  ,Universal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1
+9011224,Complete Gang Novel Magazine,1,Mar-31,1931,Hersey, ,Cover by Lyman Anderson  ,  ,Universal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+9011631,Complete Stories,253,Sept/Oct 1937,1937,Street & Smith Pub., ,Cover by Jerome G. Rozen William Barrett story ,Last issue.  ,Universal,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+5004144,Cowboy Movie Thrillers,1,Dec-41,1941,Red Star Magazine, ,Roy Rogers & Trigger photo cover Byron Dalrymple & John Colohan text stories ,"Synopsis & photos from Western films featuring Gene Autry, Tim Holt, Buck Jones & Bill Boyd. ",Universal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+5004144,Cowboy Movie Thrillers,1,Dec-41,1941,Red Star Magazine, ,Roy Rogers & Trigger photo cover Byron Dalrymple & John Colohan text stories ,"Synopsis & photos from Western films featuring Gene Autry, Tim Holt, Buck Jones & Bill Boyd. ",Universal,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,2
+5022187,Cowboy Movie Thrillers,3,Feb-42,1942,Red Star Magazine, ,Buster Crabbe cover George Michener & Alan Case text stories ,"Synopses & photos from Western films featuring Gene Autry, Buster Crabbe & Buck Jones. ",Universal,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9012067,Crack Detective,35,Feb-48,1948,Columbia, ,Talmage Powell & Frank Kane story  ,  ,Universal,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9012704,Detective Fiction Weekly,238,6-Apr-29,1929,Munsey, ,Cover by Lejaren Hiller Erle Stanley Gardner story ,  ,Universal,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9012984,Detective Fiction Weekly,518,25-Aug-34,1934,Munsey, ,Cover by John A. Coughlin  ,Skeletons cover.  ,Universal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+9013001,Detective Fiction Weekly,535,22-Dec-34,1934,Munsey, ,"H. Bedford-Jones, Judson P. Philips stories ",Decapitation cover.  ,Universal,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9013140,Detective Fiction Weekly,674,21-Aug-37,1937,Munsey, ,Cover by Emmett Watson Johnston McCulley story ,  ,Universal,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9013153,Detective Fiction Weekly,687,20-Nov-37,1937,Munsey, ,Cover by Rudolph Belarski John K. Butler story ,Classic Skeleton cover.  ,Universal,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2
+9013234,Detective Fiction Weekly,768,10-Jun-39,1939,Munsey, ,Cover by Emmett Watson Judson P. Philips story ,  ,Universal,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9013293,Detective Fiction Weekly,827,27-Jul-40,1940,Munsey, ,"Theodore Roscoe, Fredric Brown, Judson P. Philips stories ",  ,Universal,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9013300,Detective Fiction Weekly,834,14-Sep-40,1940,Munsey, ,Hugh B. Cave story  ,  ,Universal,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9013449,Detective Short Stories,20,Jul-42,1942,Red Circle, ,  ,  ,Universal,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9014225,Detective Story Magazine,757,2-May-31,1931,Street & Smith Pub., ,Cover by John A. Coughlin  ,Classic cover.  ,Universal,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9014298,Detective Story Magazine,830,10-Nov-32,1932,Street & Smith Pub., ,Cover by John A. Coughlin  ,  ,Universal,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9014317,Detective Story Magazine,849,25-Aug-33,1933,Street & Smith Pub., ,Cover by John A. Coughlin  ,  ,Universal,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9014328,Detective Story Magazine,860,10-Feb-34,1934,Street & Smith Pub., ,Cover by John A. Coughlin  ,  ,Universal,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9014684,Detective Tales,159,Oct-48,1948,Popular, ,Fredric C. Brown story  ,  ,Universal,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9014580,Detective Tales,55,Feb-40,1940,Popular, ,Cover by Norman Saunders Tiah Devitt story ,  ,Universal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1
+9014747,Detective Trails,4,Feb-30,1930,Hersey, ,Cover by W. C. Brigham  ,Last issue.  ,Universal,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9014903,Dime Detective Magazine,114,Jan-39,1939,Popular, ,"Cover by John Fleming Gould Erle Stanley Gardner, Raymond Chandler stories","Skeleton cover. ""The Lady in the Water"" by Raymond Chandler",Universal,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9015022,Dime Detective Magazine,233,Dec-48,1948,Popular, ,Cover by Norman Saunders John D. MacDonald story ,  ,Universal,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9014837,Dime Detective Magazine,48,1-Jul-34,1934,Popular, ,Cover by John Newton Howitt Carroll John Daly story ,  ,Universal,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9015064,Dime Mystery Magazine,1,Dec-32,1932,Popular, ,Cover by Delos Palmer  ,  ,Universal,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9015170,Dime Mystery Magazine,107,Jul-42,1942,Popular, ,Cover by Albert Drake  ,  ,Universal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+9015198,Dime Mystery Magazine,135,Mar-47,1947,Popular, ,  ,  ,Universal,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9015093,Dime Mystery Magazine,30,May-35,1935,Popular, ,"Cover by Walter M. Baumhofer Hugh B. Cave, Norvell W. Page stories ",  ,Universal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+9015127,Dime Mystery Magazine,64,Mar-38,1938,Popular, ,"Tom Lovell cover Francis James, Lyle D. Gunn story ",  ,Universal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+9015128,Dime Mystery Magazine,65,Apr-38,1938,Popular, ,Cover by Graves Gladney Francis James story ,  ,Universal,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9015152,Dime Mystery Magazine,89,Apr-40,1940,Popular, ,Cover by Walter M. Baumhofer  ,  ,Universal,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9015154,Dime Mystery Magazine,91,Jul-40,1940,Popular, ,Cover by Rafael DeSoto  ,  ,Universal,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9015554,Doc Savage,1,Mar-33,1933,Street & Smith Pub., ,Cover by Walter M. Baumhofer Lester Dent story ,1st app. Doc Savage.  ,Universal,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9015565,Doc Savage,12,Feb-34,1934,Street & Smith Pub., ,Cover by Walter M. Baumhofer Lester Dent story ,  ,Universal,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9015567,Doc Savage,14,Apr-34,1934,Street & Smith Pub., ,Cover by Walter M. Baumhofer Lester Dent story ,  ,Universal,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9015696,Doc Savage,143,Jan-45,1945,Street & Smith Pub., ,Cover by Modest Stein Lester Dent story ,Adolf Hitler cover.  ,Universal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+9015557,Doc Savage,4,Jun-33,1933,Street & Smith Pub., ,Cover by Walter M. Baumhofer Lester Dent story ,  ,Universal,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9015595,Doc Savage,42,Aug-36,1936,Street & Smith Pub., ,Cover by Walter M. Baumhofer Lester Dent story ,  ,Universal,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9015602,Doc Savage,49,Mar-37,1937,Street & Smith Pub., ,Cover by Robert G. Harris Lester Dent story ,  ,Universal,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9015558,Doc Savage,5,Jul-33,1933,Street & Smith Pub., ,Cover by Walter M. Baumhofer Lester Dent story ,  ,Universal,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9015608,Doc Savage,55,Sep-37,1937,Street & Smith Pub., ,"Cover by Robert G. Harris Lester Dent, Carl Jacobi stories ",  ,Universal,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9015559,Doc Savage,6,Aug-33,1933,Street & Smith Pub., ,Cover by Walter M. Baumhofer Lester Dent story ,"""The Red Skull"" classic cover.  ",Universal,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9015560,Doc Savage,7,Sep-33,1933,Street & Smith Pub., ,Cover by Walter M. Baumhofer Lester Dent story ,  ,Universal,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9015561,Doc Savage,8,Oct-33,1933,Street & Smith Pub., ,Cover by Walter M. Baumhofer Lester Dent story ,  ,Universal,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9015910,Double Detective,16,Mar-39,1939,Munsey, ,Cover by Rudolph Belarski  ,  ,Universal,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+9015923,Double Detective,29,Apr-40,1940,Munsey, ,Cover by Emmett Watson  ,1st app. Green Lama.  ,Universal,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9016087,Dynamic Science Stories,2,April/May 1939,1939,Red Circle, ,"Cover by Norman Saunders Manly Wade Wellman, Otto Binder & L. Sprague De Camp story",Hitler cover.  ,Universal,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+9016106,Eerie Mysteries,1,Aug-38,1938,Ace, ,Cover by Norman Saunders  ,  ,Universal,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9016107,Eerie Mysteries,2,Nov-38,1938,Ace, ,Cover by Norman Saunders  ,  ,Universal,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9016878,Excitement,4,Oct-30,1930,Street & Smith Pub., ,Cover by Jerome G. Rozen  ,Classic robot cover.  ,Universal,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9016926,Exciting Love,11,Spring 1943,1943,Standard, ,  ,  ,Universal,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+5017241,Fame and Fortune Weekly,481,18-Dec-14,1914,Frank Tousey, ,  ,"""A Wide Awake Boy""  ",Universal,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+5017206,Fame and Fortune Weekly,491,26-Feb-15,1915,Frank Tousey, ,  ,"""The Way to Success""  ",Universal,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+5017238,Fame and Fortune Weekly,496,2-Apr-15,1915,Frank Tousey, ,  ,"""A Mad Cap Scheme""  ",Universal,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+5017207,Fame and Fortune Weekly,517,27-Aug-15,1915,Frank Tousey, ,  ,"""Winning the Dollars""  ",Universal,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+5017239,Fame and Fortune Weekly,540,"February 4,1916",1916,Frank Tousey, ,  ,"""A Wall Street Winner""  ",Universal,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+5017208,Fame and Fortune Weekly,541,11-Feb-16,1916,Frank Tousey, ,  ,"""The Road to Wealth""  ",Universal,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+5017240,Fame and Fortune Weekly,543,25-Feb-16,1916,Frank Tousey, ,  ,"""A Chase for a Fortune""  ",Universal,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+9017203,Famous Fantastic Mysteries,1,Sept/Oct 1939,1939,Munsey, ,"Text cover A. Merritt, Manly Wade Wellman, Ray Cummings, Donald Wandrei stories",  ,Universal,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9017243,Famous Fantastic Mysteries,41,Aug-46,1946,Popular, ,Lawrence Stevens cover & art Bram Stoker story ,Classic skull cover.  ,Universal,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+9017258,Famous Fantastic Mysteries,56,Feb-49,1949,Popular, ,Lawrence Stevens cover Jack London story ,Classic cover.  ,Universal,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9017211,Famous Fantastic Mysteries,9,Aug-40,1940,Munsey, ,Virgil Finlay cover George Allan England story ,  ,Universal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1
+9017735,Fantastic Adventures,100,Oct-50,1950,Ziff-Davis Pub., ,Cover by Robert Gibson Jones L. Ron Hubbard story ,  ,Universal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1
+9017736,Fantastic Adventures,101,Nov-50,1950,Ziff-Davis Pub., ,Cover by Robert Gibson Jones  ,  ,Universal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+9017656,Fantastic Adventures,21,Nov-41,1941,Ziff-Davis Pub., ,Cover by J. Allen St. John  ,"""Slaves of the Fish Men"" part 3 of 4 by Edgar Rice Burroughs. ",Universal,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9017660,Fantastic Adventures,25,Mar-42,1942,Ziff-Davis Pub., ,Cover by J. Allen St. John Henry Kuttner story ,"""Slaves of the Fish Men"" part 4 of 4 by Edgar Rice Burroughs. ",Universal,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9017661,Fantastic Adventures,26,Apr-42,1942,Ziff-Davis Pub., ,"Cover by Malcolm Smith Manly Wade Wellman, Robert Bloch stories Virgil Finlay art",  ,Universal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+9017671,Fantastic Adventures,36,Feb-43,1943,Ziff-Davis Pub., ,Cover by Robert Gibson Jones Robert Bloch story ,  ,Universal,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9017689,Fantastic Adventures,54,Feb-46,1946,Ziff-Davis Pub., ,Cover by Walter Parke  ,  ,Universal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+5018423,Fantastic Adventures,v1 #1,May-39,1939,Ziff-Davis Pub., ,"Tofte, Binder, Rocklynne, Duclos, Kummer, Jr., Verrill & Vincent stories ","Julian S. Krupa art Rbert Fuqua cover, Frank R. Paul back cover ",Universal,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+9017804,Fantastic Novels,19,May-50,1950,Popular, ,Cover by Norman Saunders  ,  ,Universal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+9018589,Five-Novels Monthly,140,Sep-39,1939,Dell Publishing, ,  ,  ,Universal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+9018890,"Flynn's Detective Fiction",920,May-44,1944,Popular, ,Edward S. Williams story  ,  ,Universal,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9019402,Future Combined with Science Fiction,7,Oct-41,1941,Columbia, ,Cover by Hannes Bok Ray Cummings story ,Numbering continued from Future Fiction  ,Universal,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+9019421,Future Fiction,1,Nov-39,1939,Columbia, ,Cover by J. W. Scott Jack Binder & Frank R. Paul art ,"Ad for Blue Ribbon Comics #1 featuring ""Fang-A-Tang"" The Wonder Dog ",Universal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+9019493,G-8 and His Battle Aces,29,Feb-36,1936,Popular, ,Cover by Frederick Blakeslee  ,  ,Universal,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9019494,G-8 and His Battle Aces,30,Mar-36,1936,Popular, ,Cover by Frederick Blakeslee Robert J. Hogan story John Fleming Gould art,  ,Universal,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+9019551,G-8 and His Battle Aces,87,Dec-40,1940,Popular, ,Cover by Frederick Blakeslee  ,  ,Universal,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9020442,G-Men Detective,64,Nov-41,1941,Standard, ,Fredric Brown story  ,Address by J. Edgar Hoover. Nazi cover. ,Universal,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9020453,G-Men Detective,75,Winter 1944,1944,Standard, ,Rudolph Belarski cover  ,Swaztika skeleton cover.  ,Universal,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9020457,G-Men Detective,79,Winter 1945,1945,Standard, ,Cover by Rudolph Belarski  ,Hooded skeleton cover.  ,Universal,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9020224,Ghost Stories,5,Nov-26,1926,Macfadden, ,Agatha Christie story  ,  ,Universal,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+9021820,Horror Stories,1,Jan-35,1935,Popular, ,John Newton Howitt cover Amos Sewell art ,  ,Universal,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,3
+9021829,Horror Stories,10,Dec-35,1935,Popular, ,Cover by John Newton Howitt  ,  ,Universal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+9021830,Horror Stories,11,February/March 1936,1936,Popular, ,Cover by John Newton Howitt  ,  ,Universal,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+9021831,Horror Stories,12,April/May 1936,1936,Popular, ,Cover by John Newton Howitt Ray Cummings story Amos Sewell art,  ,Universal,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9021832,Horror Stories,13,June/July 1936,1936,Popular, ,John Newton Howitt cover John Knox & Arthur J Burks story Pete Castanza & Amos Sewell art,  ,Universal,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,2
+9021833,Horror Stories,14,Aug/Sept 1936,1936,Popular, ,Cover by John Drew Ray Cummings story Amos Sewell art,  ,Universal,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9021834,Horror Stories,15,Oct/Nov 1936,1936,Popular, ,Cover by John Newton Howitt Hugh B. Cave story Amos Sewell art,  ,Universal,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+9021835,Horror Stories,16,Dec/Jan 1937,1937,Popular, ,Cover by David Berger Ray Cummings story ,  ,Universal,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9021836,Horror Stories,17,February/March 1937,1937,Popular, ,John Drew cover Ray Cummings story Amos Sewell art,  ,Universal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+9021837,Horror Stories,18,April/May 1937,1937,Popular, ,Cover by John Drew Norvell W. Page story Ralph Carlson & Monroe Eisenberg art,  ,Universal,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,2
+9021838,Horror Stories,19,June/July 1937,1937,Popular, ,Cover by William F. Soare Ray Cummings story ,  ,Universal,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+9021821,Horror Stories,2,Feb-35,1935,Popular, ,"Cover by Rudolph W. Zirm Ray Cummings, Hugh B. Cave stories Amos Sewell art",  ,Universal,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,2
+9021840,Horror Stories,21,Oct/Nov 1937,1937,Popular, ,  ,  ,Universal,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9021847,Horror Stories,28,Dec/Jan 1939,1939,Popular, ,  ,  ,Universal,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9021848,Horror Stories,29,February/March 1939,1939,Popular, ,Cover by John Drew Ray Cummings story ,  ,Universal,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9021822,Horror Stories,3,Mar-35,1935,Popular, ,"Cover by Charles L. Wrenn Norvell W. Page, Hugh B. Cave stories Amos Sewell art",  ,Universal,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9021850,Horror Stories,31,June/July 1939,1939,Popular, ,  ,  ,Universal,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9021851,Horror Stories,32,Aug/Sept 1939,1939,Popular, ,Ray Cummings & Cornell Woolrich stories  ,  ,Universal,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9021856,Horror Stories,37,Aug-40,1940,Popular, ,Cover by John Drew  ,  ,Universal,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9021857,Horror Stories,38,Oct-40,1940,Popular, ,Cover by John Drew Ray Cummings story ,  ,Universal,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9021823,Horror Stories,4,Jun-35,1935,Popular, ,Cover by John Newton Howitt  ,  ,Universal,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,2
+9021860,Horror Stories,41,Apr-41,1941,Popular, ,Ray Cummings story  ,Last issue.  ,Universal,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9021826,Horror Stories,7,Sep-35,1935,Popular, ,Cover by John Newton Howitt Hugh B. Cave story ,  ,Universal,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+9021827,Horror Stories,8,Oct-35,1935,Popular, ,"Cover by John Newton Howitt Hugh B. Cave, Norvell W. Page stories ",  ,Universal,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2
+9021828,Horror Stories,9,Nov-35,1935,Popular, ,Cover by John Newton Howitt  ,  ,Universal,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+5010840,Imagination: Stories of Science and Fantasy,v1 #1,Oct-50,1950,Clark Publishing Company, ,"Geier, Neville, Phillips, Hawkins & Ludwig stories ",Hannes Bok cover Bill Terry art ,Universal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1
+5010841,Imagination: Stories of Science and Fantasy,v1 #2,Dec-50,1950,Clark Publishing Company, ,"Archette, Beynon, Reynolds, Keene, Lesser, Curtis & McGreevey stories ",Harold McCauley cover  ,Universal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+5012140,Jesse James Stories,1,Dec-38,1938,Street & Smith Pub., ,  ,Reprints Jesse James Stories #1 from 1901 by W.B. Lawson ,Universal,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+111021,Jesse James Stories,1,Dec-38,1938,Street & Smith Pub., ,W.B. Lawson story  ,  ,Universal,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+9022536,Jungle Stories,1,Winter 1938,1938,Fiction House, ,Cover by Norman Saunders Hugh B. Cave story ,1st appearance of Ki-Gor.  ,Universal,0,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0,2,0,0,0,0,0,0,0,0,5
+9022533,Jungle Stories,1,Aug-31,1931,Clayton, ,Cover by Domingo F. Periconi Murray Leinster story ,  ,Universal,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9022545,Jungle Stories,10,Summer 1941,1941,Fiction House, ,"Cover by George Gross S. Maxwell, Savitts art ",  ,Universal,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,2
+9022546,Jungle Stories,11,Fall 1941,1941,Fiction House, ,George Gross cover S. Maxwell & M. Lincoln Lee art ,  ,Universal,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9022547,Jungle Stories,12,Winter 1941,1941,Fiction House, ,George Gross cover M. Lincoln Lee & Savitts art ,  ,Universal,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9022548,Jungle Stories,13,Spring 1942,1942,Fiction House, ,George Gross cover Seabury Quinn story Stanley A Drake & A. Lydenfrost art,  ,Universal,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,2
+9022549,Jungle Stories,14,Summer 1942,1942,Fiction House, ,George Gross cover Stanley A Drake & Savitts art ,  ,Universal,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9022550,Jungle Stories,15,Fall 1942,1942,Fiction House, ,George Gross cover Stanley A Drake & Savitts art ,  ,Universal,0,0,0,0,0,0,1,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,4
+9022551,Jungle Stories,16,Winter 1942,1942,Fiction House, ,George Gross cover Nick Cardy art ,  ,Universal,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+9022552,Jungle Stories,17,Feb-43,1943,Fiction House, ,"George Gross cover George Gross, George Wert & Nick Cardy & George Tuska art",  ,Universal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1
+9022553,Jungle Stories,18,Apr-43,1943,Fiction House, ,"Cover by George Gross Bob Lubbers, Nick Carty, Art Saaf & Dan Zolnerowich art",  ,Universal,0,0,0,0,0,0,2,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3
+9022554,Jungle Stories,19,Summer 1943,1943,Fiction House, ,George Gross cover Art Saaf art ,  ,Universal,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,2
+9022537,Jungle Stories,2,Summer 1939,1939,Fiction House, ,Cover by Norman Saunders Hugh B. Cave story ,  ,Universal,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2
+9022555,Jungle Stories,20,Fall 1943,1943,Fiction House, ,"George Gross cover Art Saaf, E. W. Potter & H. W. Kiemle art",  ,Universal,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9022556,Jungle Stories,21,Winter 1943,1943,Fiction House, ,George Gross cover H. W. Kiemle art ,  ,Universal,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,2
+9022557,Jungle Stories,22,Spring 1944,1944,Fiction House, ,George Gross cover Sam Savitts & Graham Ingels art ,  ,Universal,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9022558,Jungle Stories,23,Summer 1944,1944,Fiction House, ,George Gross cover Nick Cardy & H. W. Kiemle art ,  ,Universal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+9022559,Jungle Stories,24,Fall 1944,1944,Fiction House, ,George Gross cover E. W. Potter art ,  ,Universal,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,2
+9022560,Jungle Stories,25,Winter 1944,1944,Fiction House, ,"George Gross cover Lily Renee, E. W. Potter & H. W. Kiemle art",  ,Universal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+9022561,Jungle Stories,26,Spring 1945,1945,Fiction House, ,George Gross cover H. W. Kiemle art ,  ,Universal,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2
+9022562,Jungle Stories,27,Summer 1945,1945,Fiction House, ,George Gross cover C. A. Murphy art ,  ,Universal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1
+9022563,Jungle Stories,28,Fall 1945,1945,Fiction House, ,George Gross cover H. W. Kiemle & C. A. Murphy art ,  ,Universal,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9022564,Jungle Stories,29,Winter 1945,1945,Fiction House, ,"George Gross cover A. C. Hollingsworth, H. W. Kiemle art ",  ,Universal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+9022538,Jungle Stories,3,Fall 1939,1939,Fiction House, ,Cover by George Gross Victor Rousseau story George Wert art,  ,Universal,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+9022565,Jungle Stories,30,Spring 1946,1946,Fiction House, ,George Gross cover C. Martin & C. A. Murphy art ,  ,Universal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1
+9022566,Jungle Stories,31,Summer 1946,1946,Fiction House, ,George Gross cover Bob Lubbers art ,  ,Universal,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+9022567,Jungle Stories,32,Fall 1946,1946,Fiction House, ,George Gross cover Sam Savitt art ,  ,Universal,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,2
+9022568,Jungle Stories,33,Winter 1946,1946,Fiction House, ,"George Gross cover Bob Lubbers, Sam Savitt art ",  ,Universal,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+9022569,Jungle Stories,34,Spring 1947,1947,Fiction House, ,George Gross cover Savitt art ,Full page ad for Sheena in Jumbo Comics.  ,Universal,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9022539,Jungle Stories,4,Winter 1939,1939,Fiction House, ,Cover by George Gross Theodore Roscoe story ,  ,Universal,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+9022582,Jungle Stories,47,Summer 1950,1950,Fiction House, ,George Gross cover H. B. Vestal & Earl Mayan art ,  ,Universal,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+9022540,Jungle Stories,5,Spring 1940,1940,Fiction House, ,Cover by Norman Saunders Savitts art ,  ,Universal,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2
+9022541,Jungle Stories,6,Summer 1940,1940,Fiction House, ,"Cover by George Gross Savitts, Donald Lynch art ",  ,Universal,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9022542,Jungle Stories,7,Fall 1940,1940,Fiction House, ,"Kiemle, George Wert art  ",  ,Universal,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+9022543,Jungle Stories,8,Winter 1940,1940,Fiction House, ,Cover by George Gross Theodore Roscoe story George Wert art,  ,Universal,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+9022544,Jungle Stories,9,Spring 1941,1941,Fiction House, ,"Cover by Norman Saunders Savitts, Angus Dun art ",  ,Universal,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9022599,Ka-Zar,1,Oct-36,1936,Red Circle, ,Cover by J. W. Scott  ,1st appearance of Ka-Zar predates 1st comic book appearance in Marvel Comics #1 (1939).,Universal,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+72880,Lone Ranger,1,Aug-36,1936,Spartan Publishing Co., ,  ,Manufactured to secure copyright for The Lone Ranger. ,Universal,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+9023122,Lone Wolf Detective Magazine,1,Feb-40,1940,Ace, ,Cover by Norman Saunders Lester Dent story ,  ,Universal,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+9025048,Love-Crime Detective,1,Aug-42,1942,Munsey, ,  ,Exploitation photo cover.  ,Universal,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9025606,Magic Carpet Magazine,4,Oct-33,1933,Popular, ,Margaret Brundage cover Seabury Quinn & Ed Hamilton story J.M. Wilcox art,Classic cover.  ,Universal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+9025607,Magic Carpet Magazine,5,Jan-34,1934,Popular, ,Cover by Margaret Brundage Robert E. Howard story Last issue.,"""The Shadow of the Vulture"" featuring the first Red Sonya, later adapted in Marvel Comics (Red Sonja).",Universal,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+9025656,Mammoth Detective,28,Apr-47,1947,Ziff-Davis Pub., ,Cover by Arnold Kohn  ,  ,Universal,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9025942,Marvel Science Stories,1,Aug-38,1938,Red Circle, ,Norman Saunders cover Henry Kuttner story Frank R. Paul art,"1st use of the ""Marvel"" logo, which was later used for ""Marvel Mystery Comics"" ",Universal,1,0,0,0,0,0,0,0,0,1,1,0,1,1,0,1,1,0,0,0,0,0,0,0,0,7
+9025947,Marvel Science Stories,1,Nov-50,1950,Red Circle, ,"Cover by Norman Saunders A. E. Van Vogt, Gardner F. Fox & Forrest J. Ackerman stories",Vincent Napoli & Frank R. Paul art  ,Universal,0,0,0,0,0,0,1,0,0,0,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,5
+9025943,Marvel Science Stories,2,Nov-38,1938,Red Circle, ,"Frank R. Paul cover & art Jack Williamson, Henry Kuttner stories Jack Binder art",  ,Universal,0,0,0,0,0,0,0,0,0,0,0,3,1,1,1,0,0,0,0,0,0,0,0,0,0,6
+9025944,Marvel Science Stories,3,Feb-39,1939,Red Circle, ,Cover by H. W. Wesso Jack Williamson story Frank R. Paul art,  ,Universal,0,0,0,0,0,0,0,0,0,0,1,0,2,0,2,0,0,0,0,0,0,0,0,0,0,5
+9025945,Marvel Science Stories,4,April/May 1939,1939,Red Circle, ,Norman Saunders cover Alex Schomburg art ,Classic woman in glass tube cover. 1 page story about the cover by Otto Binder,Universal,0,0,0,0,0,0,1,2,1,2,2,1,3,1,1,0,0,0,0,0,0,0,0,0,0,14
+9025946,Marvel Science Stories,5,Aug-39,1939,Red Circle, ,Cover by J. W. Scott  ,  ,Universal,0,0,0,0,0,1,0,0,1,1,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+9025950,Marvel Stories,1,Nov-40,1940,Red Circle, ,Cover by J. W. Scott Ray Cummings story Joe Simon & Jack Kirby art,Human Torch story/ad for Marvel Mystery Comics by Carl Burgos ,Universal,0,0,0,0,1,0,0,2,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,7
+9025951,Marvel Stories,2,Apr-41,1941,Red Circle, ,"Cover by J. W. Scott Jack Williamson, Ray Cummings stories Alex Schomburg art",  ,Universal,0,0,0,0,0,0,0,3,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+9025957,Marvel Tales,1,Dec-39,1939,Red Circle, ,  ,  ,Universal,0,0,0,0,0,0,0,2,0,0,1,1,2,0,0,0,0,0,0,0,0,0,0,0,0,6
+9025958,Marvel Tales,2,May-40,1940,Red Circle, ,Cover by Norman Saunders  ,  ,Universal,0,0,0,0,0,0,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,3
+5009198,Modern Romances,v14 #4,Sep-37,1937,Dell Publishing, ,Elinor Blair text Earl Christy cover ,  ,Universal,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+5004162,Movie Detective,1,Jan-42,1942,Manhattan Fiction Publ., ,E.D. Gardner & Stanley Richards text stories  ,"James Cagney photo cover Ralph Bellamy, Warren William & Victor Jory photos ",Universal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1
+5019228,Movie Western,v1 #1,Jul-50,1950,"Movie Publications, Inc.", ,Alan Ladd cover  ,  ,Universal,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9027186,Mystery Adventure Magazine,17,Aug-36,1936,"Movie Digest, Inc.", ,Cover by Norman Saunders  ,  ,Universal,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+9027543,Mystery Tales,2,Jun-38,1938,Red Circle, ,Norman Saunders cover Henry Kuttner story James A Ernst art,  ,Universal,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9027544,Mystery Tales,3,Nov-38,1938,Red Circle, ,J. W. Scott cover  ,  ,Universal,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+9027589,New Detective Magazine,1,Mar-41,1941,Popular, ,  ,  ,Universal,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9028040,Nick Carter Magazine,5,Jul-33,1933,Street & Smith Pub., ,Jerome G. Rozen cover Charles Stuart story Amos Sewell art,  ,Universal,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+9028364,Operator #5,28,Oct/Nov 1936,1936,Popular, ,Cover by John Newton Howitt Emile Tepperman stories J. F. Gould art,  ,Universal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1
+9028370,Operator #5,34,July/August 1937,1937,Popular, ,John Newton Howitt cover Curtis Steel & Arthur Leo Zagat story Ralph Carlson art,  ,Universal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+9028342,Operator #5,6,Sep-34,1934,Popular, ,Cover by John Newton Howitt  ,  ,Universal,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+9029210,Phantom Detective,1,Feb-33,1933,Standard, ,Bertram Glover cover  ,1st appearance of Phantom Detective  ,Universal,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9029343,Phantom Detective,134,Feb-46,1946,Standard, ,Cover by Rudolph Belarski  ,  ,Universal,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9029345,Phantom Detective,136,Jun-46,1946,Standard, ,Cover by Rudolph Belarski  ,  ,Universal,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9029227,Phantom Detective,18,Aug-34,1934,Standard, ,  ,Classic hooded skeleton cover.  ,Universal,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9029395,Planet Stories,1,Winter 1939,1939,Fiction House, ,Cover by Frank R. Paul  ,  ,Universal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,2
+9029396,Planet Stories,2,Spring 1940,1940,Fiction House, ,"Ray Cummings, Nelson Bond stories  ",  ,Universal,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9029437,Planet Stories,43,Summer 1950,1950,Fiction House, ,Cover by Allen Anderson Ray Bradbury story ,  ,Universal,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+9029438,Planet Stories,44,Fall 1950,1950,Fiction House, ,Allen Anderson cover Ray Bradbury & Poul Anderson stories Earl Mayan & Al McWilliams art,  ,Universal,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+9029439,Planet Stories,45,Nov-50,1950,Fiction House, ,Allen Anderson cover Fredric Brown & James Blish story Earl Mayan & Al McWilliams art,"1 page movie review, ""Rocketship X-M"" by Forrest J. Ackerman",Universal,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,2
+5017225,Pluck and Luck,1071,11-Dec-18,1918,Frank Tousey, ,  ,"""Jack Wright and His Electric Tricycle""  ",Universal,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+5004177,Pluck and Luck,222,3-Sep-02,1902,Frank Tousey, ,  ,"""Jack Wright and His Electric Deers.""  ",Universal,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+5017224,Pluck and Luck,804,29-Oct-13,1913,Frank Tousey, ,  ,"""The Boy in the Box""  ",Universal,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9029526,Popular Detective,13,Nov-35,1935,Standard, ,  ,Classic decapitation cover.  ,Universal,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+9029554,Popular Detective,41,Mar-38,1938,Standard, ,Cover by Jerome G. Rozen Ray Cummings story ,  ,Universal,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9029601,Popular Detective,88,Dec-45,1945,Standard, ,Johnston McCulley story  ,Skeleton Santa cover.  ,Universal,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9030754,Public Enemy,1,Dec-35,1935,Dell Publishing, ,Norman Saunders cover Bryan James Kelly story Jay McArdle art,  ,Universal,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+9032989,Real Spicy Horror Tales,1,21-Apr-37,1937,Yale Record, ,Cover art by McMullen  ,  ,Universal,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9033548,Red Mask Detective Stories,1,Mar-41,1941,Albing, ,"M. Lincoln Lee cover & interior art Stanley Richards, Alan Beek story Roland Patenaude art",  ,Universal,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9034619,Romantic Western,5,Sep-38,1938,Culture, ,H. J. Ward cover E. Hoffmann Price story Harry Parkhurst art,  ,Universal,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9034796,Saucy Detective,1,Apr-37,1937,"Movie Digest, Inc.", ,  ,  ,Universal,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9034801,Saucy Movie Tales,1,Dec-35,1935,"Movie Digest, Inc.", ,Cover by Norman Saunders  ,  ,Universal,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,2
+9034812,Saucy Movie Tales,12,Dec-36,1936,"Movie Digest, Inc.", ,Cover by Norman Saunders  ,  ,Universal,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+9034802,Saucy Movie Tales,2,Jan-36,1936,"Movie Digest, Inc.", ,Cover by Norman Saunders Eric Browken story & art ,Marcia of the Movies comic strip  ,Universal,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,2
+9035140,Science Fiction,7,Jun-40,1940,Columbia, ,Frank R. Paul cover Nelson Bond story ,  ,Universal,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9035554,Secret 6,4,Jan-35,1935,Popular, ,Henry Alan cover Robert J. Hogan & Frank Masters story ,  ,Universal,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9035555,Secret Agent X,1,Feb-34,1934,Ace, ,Cover by William Reusswig  ,1st issue. Classic skull cover. ,Universal,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+9035564,Secret Agent X,10,Dec-34,1934,Ace, ,Cover by William Reusswig  ,  ,Universal,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9035565,Secret Agent X,11,Jan-35,1935,Ace, ,Cover by J. George Janes  ,Hypodermic needle cover.  ,Universal,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3
+9035566,Secret Agent X,12,Feb-35,1935,Ace, ,Cover by J. George Janes  ,  ,Universal,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+9035567,Secret Agent X,13,Mar-35,1935,Ace, ,J. George Janes cover  ,  ,Universal,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+9035568,Secret Agent X,14,Apr-35,1935,Ace, ,Cover by J. George Janes  ,  ,Universal,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,2
+9035569,Secret Agent X,15,Jun-35,1935,Ace, ,Cover by J. George Janes Hugh B. Cave story ,  ,Universal,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9035570,Secret Agent X,16,Jul-35,1935,Ace, ,  ,  ,Universal,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9035571,Secret Agent X,17,Aug-35,1935,Ace, ,Cover by J. George Janes  ,  ,Universal,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9035556,Secret Agent X,2,Mar-34,1934,Ace, ,Cover by William Reusswig  ,  ,Universal,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9035557,Secret Agent X,3,Apr-34,1934,Ace, ,Cover by William Reusswig  ,Classic U.S. Capitol cover.  ,Universal,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9035558,Secret Agent X,4,May-34,1934,Ace, ,Cover by William Reusswig  ,  ,Universal,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9035561,Secret Agent X,7,Sep-34,1934,Ace, ,Cover by William Reusswig  ,  ,Universal,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9035562,Secret Agent X,8,Oct-34,1934,Ace, ,Cover by William Reusswig  ,  ,Universal,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9035563,Secret Agent X,9,Nov-34,1934,Ace, ,Cover by William Reusswig  ,  ,Universal,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+5020489,Secret Service,84,31-Aug-00,1900,Frank Tousey, ,  ,"""The Badys' Race for Life!""  ",Universal,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+5020491,Secret Service,85,7-Sep-00,1900,Frank Tousey, ,  ,"""The Bradys' Last Chance""  ",Universal,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+5020486,Secret Service,888,28-Jan-16,1916,Frank Tousey, ,  ,"""The Bradys and the Mail Thieves!""  ",Universal,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9035747,Shadow,125,1-May-37,1937,Street & Smith Pub., ,Cover by George Rozen  ,  ,Universal,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9035812,Shadow,190,15-Jan-40,1940,Street & Smith Pub., ,Cover by Graves Gladney Walter B. Gibson story ,  ,Universal,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+9035824,Shadow,202,15-Jul-40,1940,Street & Smith Pub., ,Cover by Graves Gladney Walter B. Gibson story ,  ,Universal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1
+9035644,Shadow,22,15-Jan-33,1933,Street & Smith Pub., ,Cover by George Rozen Tom Lovell art Walter B. Gibson story,Classic Creeping Death cover.  ,Universal,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9035850,Shadow,228,15-Aug-41,1941,Street & Smith Pub., ,Cover by Graves Gladney Walter B. Gibson story ,  ,Universal,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+9035866,Shadow,244,15-Apr-42,1942,Street & Smith Pub., ,Cover by George Rozen Walter B. Gibson story ,  ,Universal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+9035868,Shadow,246,15-May-42,1942,Street & Smith Pub., ,George Rozen cover Theodore A. Tinsley story Paul Orban art,  ,Universal,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,2
+9035872,Shadow,250,15-Jul-42,1942,Street & Smith Pub., ,Cover by George Rozen Walter B. Gibson story ,Classic skeleton cover.  ,Universal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+9037347,Sky Fighters,89,Jan-43,1943,Standard, ,  ,  ,Universal,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9037355,Sky Fighters,97,Jun-44,1944,Standard, ,Rudolph Belarski cover Malcolm Wheeler-Nicholson story Leo Morey art,Classic WW II cover. Similar to Air Fighters #2 comic book. ,Universal,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+232425,Skypilot,10,Nov-50,1950,Ziff-Davis Pub., ,Ernie Hart and Frank Borth art Norman Saunders cover ,Painted cover.  ,Universal,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2
+9038291,Spicy Adventure Stories,1,Nov-34,1934,Culture, ,Cover by H. J. Ward Robert Leslie Bellem story ,"Dianna Daw comic strip begins by Max Plaisted ""Clayton Maxwell"". ",Universal,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9038301,Spicy Adventure Stories,10,Aug-35,1935,Culture, ,Cover by H. L. Parkhurst Robert Leslie Bellem story Max Plaisted art,Dianna Daw comic strip.  ,Universal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+9038303,Spicy Adventure Stories,12,Oct-35,1935,Culture, ,Cover by H. L. Parkhurst Robert Leslie Bellem story Max Plaisted art,Dianna Daw comic strip.  ,Universal,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9038306,Spicy Adventure Stories,15,Jan-36,1936,Culture, ,Cover by H. L. Parkhurst Robert Leslie Bellem story Max Plaisted art,Dianna Daw comic strip.  ,Universal,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+9038307,Spicy Adventure Stories,16,Feb-36,1936,Culture, ,Robert Leslie Bellem story Max Plaisted art ,Dianna Daw comic strip.  ,Universal,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9038308,Spicy Adventure Stories,17,Mar-36,1936,Culture, ,Cover by William F. Soare Robert Leslie Bellem story Max Plaisted art,Dianna Daw comic strip.  ,Universal,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9038310,Spicy Adventure Stories,19,May-36,1936,Culture, ,H. J. Ward cover Robert Leslie Bellem story Max Plaisted story & art,Dianna Daw comic strip. Decapitation panel ,Universal,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+9038292,Spicy Adventure Stories,2,Dec-34,1934,Culture, ,Cover by H. L. Parkhurst Robert Leslie Bellem story Max Plaisted art,Dianna Daw comic strip.  ,Universal,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9038311,Spicy Adventure Stories,20,Jun-36,1936,Culture, ,Cover by H. J. Ward Robert E. Howard story Max Plaisted art,Dianna Daw comic strip.  ,Universal,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+9038312,Spicy Adventure Stories,21,Jul-36,1936,Culture, ,Cover by H. L. Parkhurst Robert Leslie Bellem story Max Plaisted art,Dianna Daw comic strip.  ,Universal,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9038313,Spicy Adventure Stories,22,Aug-36,1936,Culture, ,Cover by H. J. Ward Robert Leslie Bellem story Max Plaisted art,Classic octopus cover. Dianna Daw comic strip. ,Universal,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2
+9038318,Spicy Adventure Stories,27,Jan-37,1937,Culture, ,Cover by H. J. Ward Robert E. Howard & Robert Leslie Bellem story,Uncensored version. Max Plaisted art Dianna Daw comic strip.,Universal,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9038319,Spicy Adventure Stories,28,Feb-37,1937,Culture, ,Cover by H. J. Ward Robert Leslie Bellem story Max Plaisted art,Uncensored version. Dianna Daw comic strip. ,Universal,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3
+9038320,Spicy Adventure Stories,29,Mar-37,1937,Culture, ,Cover by H. L. Parkhurst Robert Leslie Bellem story Max Plaisted art,Uncensored version. Dianna Daw comic strip. ,Universal,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9038294,Spicy Adventure Stories,3,Jan-35,1935,Culture, ,Robert Leslie Bellem story Max Plaisted art ,Dianna Daw comic strip.  ,Universal,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9038321,Spicy Adventure Stories,30,Apr-37,1937,Culture, ,Cover by H. J. Ward Robert Leslie Bellem story Max Plaisted art,Dianna Daw comic strip.  ,Universal,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9038322,Spicy Adventure Stories,31,May-37,1937,Culture, ,  ,"Diana Daw comic strip by Max Plaisted ""Clayton Maxwell"". ",Universal,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9038324,Spicy Adventure Stories,33,Jul-37,1937,Culture, ,Cover by H. J. Ward  ,"Uncensored version. Diana Daw comic strip by Max Plaisted ""Clayton Maxwell"".",Universal,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9038330,Spicy Adventure Stories,39,Jan-38,1938,Culture, ,Cover by William F. Soare  ,"Diana Daw comic strip by Max Plaisted ""Clayton Maxwell"". ",Universal,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9038334,Spicy Adventure Stories,43,May-38,1938,Culture, ,Robert Leslie Bellem story Max Plaisted story & art ,Diana Daw comic strip  ,Universal,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+9038336,Spicy Adventure Stories,45,Jul-38,1938,Culture, ,Cover by H. J. Ward  ,"Diana Daw comic strip by Max Plaisted ""Clayton Maxwell"". ",Universal,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+9038340,Spicy Adventure Stories,49,Nov-38,1938,Culture, ,Cover by H. J. Ward  ,"Diana Daw comic strip by Max Plaisted ""Clayton Maxwell"". ",Universal,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9038296,Spicy Adventure Stories,5,Mar-35,1935,Culture, ,Cover by H. J. Ward Robert Leslie Bellem story Max Plaisted art,Dianna Daw comic strip.  ,Universal,0,0,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3
+9038341,Spicy Adventure Stories,50,Dec-38,1938,Culture, ,Cover by H. J. Ward  ,  ,Universal,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2
+9038342,Spicy Adventure Stories,51,Jan-39,1939,Culture, ,Cover by H. L. Parkhurst  ,"Diana Daw comic strip by Max Plaisted ""Clayton Maxwell"". ",Universal,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+9038346,Spicy Adventure Stories,55,May-39,1939,Culture, ,  ,"Diana Daw comic strip by Max Plaisted ""Clayton Maxwell"". ",Universal,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9038347,Spicy Adventure Stories,56,Jun-39,1939,Culture, ,Cover by H. J. Ward  ,"Diana Daw comic strip by Max Plaisted ""Clayton Maxwell"". ",Universal,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9038350,Spicy Adventure Stories,59,Sep-39,1939,Culture, ,Cover by H. J. Ward  ,  ,Universal,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9038297,Spicy Adventure Stories,6,Apr-35,1935,Culture, ,Cover by H. L. Parkhurst Robert Leslie Bellem story Max Plaisted art,Dianna Daw comic strip.  ,Universal,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9038356,Spicy Adventure Stories,65,Mar-40,1940,Culture, ,Cover by H. J. Ward  ,"Diana Daw comic strip by Max Plaisted ""Clayton Maxwell"". ",Universal,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9038298,Spicy Adventure Stories,7,May-35,1935,Culture, ,Cover by H. J. Ward Robert Leslie Bellem story Max Plaisted art,Dianna Daw comic strip.  ,Universal,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9038362,Spicy Adventure Stories,71,Oct-40,1940,Culture, ,Cover by H. J. Ward  ,"Classic Sci-Fi cover. Diana Daw comic strip by Max Plaisted ""Clayton Maxwell"".",Universal,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9038364,Spicy Adventure Stories,73,Dec-40,1940,Culture, ,  ,"Classic Sci-Fi cover. Diana Daw comic strip by Max Plaisted ""Clayton Maxwell"".",Universal,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+9038365,Spicy Adventure Stories,74,Jan-41,1941,Culture, ,Cover by H. J. Ward  ,"Diana Daw comic strip by Max Plaisted ""Clayton Maxwell"". ",Universal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+9038366,Spicy Adventure Stories,75,Feb-41,1941,Culture, ,Cover by H. J. Ward  ,"Classic Sci-Fi cover. Diana Daw comic strip by Max Plaisted ""Clayton Maxwell"".",Universal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+9038370,Spicy Adventure Stories,79,Jul-41,1941,Culture, ,  ,"Classic Sci-Fi cover. Diana Daw comic strip by Max Plaisted ""Clayton Maxwell"".",Universal,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9038299,Spicy Adventure Stories,8,Jun-35,1935,Culture, ,Cover by H. L. Parkhurst Robert Leslie Bellem story Max Plaisted art,Dianna Daw comic strip.  ,Universal,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9038371,Spicy Adventure Stories,80,Aug-41,1941,Culture, ,Cover by Allen Anderson  ,"Diana Daw comic strip by Max Plaisted ""Clayton Maxwell"". ",Universal,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9038372,Spicy Adventure Stories,81,Sep-41,1941,Culture, ,Robert Leslie Bellem & Lew Merrill story  ,"Classic Sci-Fi cover. Diana Daw comic strip by Max Plaisted ""Clayton Maxwell"".",Universal,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9038373,Spicy Adventure Stories,82,Oct-41,1941,Culture, ,Cover by H. L. Parkhurst  ,"Diana Daw comic strip by Max Plaisted ""Clayton Maxwell"". ",Universal,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9038374,Spicy Adventure Stories,83,Nov-41,1941,Culture, ,Cover by H. J. Ward  ,"Classic Sci-Fi cover. Diana Daw comic strip by Max Plaisted ""Clayton Maxwell"".",Universal,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9038376,Spicy Adventure Stories,85,Jan-42,1942,Culture, ,  ,"Classic Sci-Fi cover. Diana Daw comic strip by Max Plaisted ""Clayton Maxwell"".",Universal,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9038377,Spicy Adventure Stories,86,Feb-42,1942,Culture, ,Cover by H. J. Ward  ,"Diana Daw comic strip by Max Plaisted ""Clayton Maxwell"". ",Universal,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9038378,Spicy Adventure Stories,87,Mar-42,1942,Culture, ,Cover by H. J. Ward  ,"Classic Sci-Fi cover. Diana Daw comic strip by Max Plaisted ""Clayton Maxwell"".",Universal,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9038380,Spicy Adventure Stories,89,May-42,1942,Culture, ,Cover by H. J. Ward  ,  ,Universal,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9038408,Spicy Detective Stories,22,Feb-36,1936,Culture, ,H. L. Parkhurst cover Robert Leslie Bellem story Adolphe Barreaux story & art,Uncensored version. Sally the Sleuth comic strip. ,Universal,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+9038418,Spicy Detective Stories,32,Dec-36,1936,Culture, ,Cover by H. L. Parkhurst Robert Leslie Bellem story Adolphe Barreaux story & art,Uncensored version. Sally the Sleuth comic strip ,Universal,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9038393,Spicy Detective Stories,7,Nov-34,1934,Culture, ,Cover by H. J. Ward Robert Leslie Bellem story ,Classic cover. Sally the Sleuth comic strip. ,Universal,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9038503,Spicy Mystery Stories,10,Mar-36,1936,Culture, ,Cover by Delos Palmer Robert Leslie Bellem story Harry Parkhurst art,  ,Universal,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2
+9038511,Spicy Mystery Stories,18,Nov-36,1936,Culture, ,Cover by H. J. Ward Robert Leslie Bellem story ,Full page ad for Spicy Western Stories #1 ,Universal,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+9038495,Spicy Mystery Stories,2,Jul-35,1935,Culture, ,H. L. Parkhurst cover & art  ,  ,Universal,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9038513,Spicy Mystery Stories,20,Jan-37,1937,Culture, ,Cover by Delos Palmer Robert Leslie Bellem story Joseph Szokoli art,  ,Universal,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9038514,Spicy Mystery Stories,21,Feb-37,1937,Culture, ,Cover by H. J. Ward Robert Leslie Bellem story ,Classic bondage cover  ,Universal,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9038534,Spicy Mystery Stories,41,Feb-39,1939,Culture, ,Cover by William F. Soare  ,  ,Universal,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9038498,Spicy Mystery Stories,5,Oct-35,1935,Culture, ,Cover by Norman Saunders Robert Leslie Bellem story ,Classic hypodermic needle cover.  ,Universal,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9038499,Spicy Mystery Stories,6,Nov-35,1935,Culture, ,William F. Soare cover Robert Leslie Bellem story Max Plaisted & H. L. Parkhurst art,  ,Universal,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9038553,Spicy Mystery Stories,60,Oct-41,1941,Culture, ,Cover by H. J. Ward Robert Leslie Bellem story ,  ,Universal,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9038557,Spicy Mystery Stories,64,Feb-42,1942,Culture, ,Cover by H. L. Parkhurst Watt Dell story & art ,Vera Ray comic strip. Classic Sci-Fi cover. ,Universal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+9038561,Spicy Mystery Stories,68,Jul-42,1942,Culture, ,Cover by H. J. Ward Robert Leslie Bellem story Watt Dell story & art,Vera Ray comic strip.  ,Universal,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9038562,Spicy Mystery Stories,69,Sep-42,1942,Culture, ,Cover by Allen Anderson Watt Dell story & art ,Vera Ray comic strip.  ,Universal,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9038500,Spicy Mystery Stories,7,Dec-35,1935,Culture, ,Cover by Delos Palmer Robert Leslie Bellem story H. L. Parkhurst art,  ,Universal,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9038563,Spicy Mystery Stories,70,Oct-42,1942,Culture, ,Cover by Allen Anderson Robert Leslie Bellem story Watt Dell story & art,Vera Ray comic strip.  ,Universal,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,2
+9038564,Spicy Mystery Stories,71,Nov-42,1942,Culture, ,Cover by H. J. Ward Robert Leslie Bellem story Watt Dell story & art,Vera Ray comic strip.  ,Universal,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9038565,Spicy Mystery Stories,72,Dec-42,1942,Culture, ,"Cover by Allen Anderson Robert Leslie Bellem, Henry Kuttner stories, Watt Dell story & art",Vera Ray comic strip. Last issue. ,Universal,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9038501,Spicy Mystery Stories,8,Jan-36,1936,Culture, ,Cover by H. L. Parkhurst Robert Leslie Bellem story ,  ,Universal,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+9038502,Spicy Mystery Stories,9,Feb-36,1936,Culture, ,Cover by H. J. Ward Robert Leslie Bellem story ,"Classic ""Batman"" cover. Hanging cover. ",Universal,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9038684,Spicy Western Stories,1,Nov-36,1936,Culture, ,Cover by H. J. Ward  ,Uncensored version. Polly of the Plains comic strip begins with art by Joseph Szokoli.,Universal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+9038695,Spicy Western Stories,12,Oct-37,1937,Culture, ,Cover by H. L. Parkhurst Robert Leslie Bellem story Joseph Szokoli art,Polly of the Plains comic strip.  ,Universal,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+9038697,Spicy Western Stories,14,Dec-37,1937,Culture, ,Cover by H. J. Ward Joseph Szokoli art ,Polly of the Plains comic strip.  ,Universal,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9038699,Spicy Western Stories,16,Feb-38,1938,Culture, ,Cover by H. J. Ward  ,  ,Universal,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+9038700,Spicy Western Stories,17,Mar-38,1938,Culture, ,Cover by H. L. Parkhurst  ,  ,Universal,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9038685,Spicy Western Stories,2,Dec-36,1936,Culture, ,Cover by H. J. Ward Robert Leslie Bellem story Joseph Szokoli art,Uncensored version. Polly of the Plains comic strip. ,Universal,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9038705,Spicy Western Stories,22,Oct-38,1938,Culture, ,Cover by H. J. Ward  ,  ,Universal,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9038714,Spicy Western Stories,31,Mar-40,1940,Culture, ,Cover by H. J. Ward  ,  ,Universal,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9038721,Spicy Western Stories,38,Jan-41,1941,Culture, ,Cover by H. J. Ward  ,Bondage/torture cover.  ,Universal,0,0,0,0,0,0,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4
+9038725,Spicy Western Stories,42,Jun-41,1941,Culture, ,Cover by Allen Anderson  ,  ,Universal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+9038688,Spicy Western Stories,5,Mar-37,1937,Culture, ,Cover by William F. Soare Joseph Szokoli art ,Uncensored version. Polly of the Plains comic strip. ,Universal,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9038733,Spicy Western Stories,50,Mar-42,1942,Culture, ,Cover by Allen Anderson  ,  ,Universal,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9038691,Spicy Western Stories,8,Jun-37,1937,Culture, ,Cover by H. L. Parkhurst Robert Leslie Bellem story Joseph Szokoli art,Uncensored version. Polly of the Plains comic strip. ,Universal,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9038692,Spicy Western Stories,9,Jul-37,1937,Culture, ,Cover by H. J. Ward Joseph Szokoli art ,Polly of the Plains comic strip.  ,Universal,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9049267,Spider,15,Dec-34,1934,Popular,Canada,Cover by John Newton Howitt Norvell W. Page story J. F. Gould art,  ,Universal,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9038773,Spider,33,Jun-36,1936,Popular, ,Cover by John Newton Howitt Norvell W. Page story J. F. Gould art,  ,Universal,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9038789,Spider,49,Oct-37,1937,Popular, ,Cover by John Newton Howitt  ,  ,Universal,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9038799,Spider,59,Aug-38,1938,Popular, ,Cover by John Newton Howitt  ,  ,Universal,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9038821,Spider,81,Jun-40,1940,Popular, ,Rafael DeSoto cover Norvell W. Page story J. F. Gould art,"Classic bondage cover. ""Fanged"" Spider cover. ",Universal,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+9038830,Spider,90,Mar-41,1941,Popular, ,Cover by Rafael DeSoto Norvell W. Page story John Fleming Gould art,  ,Universal,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9039475,Spy Novels Magazine,1,Feb-35,1935,Ace, ,E. Hoffmann Price story Jayem Wilcox art ,  ,Universal,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9039798,Startling Stories,1,Jan-39,1939,Standard, ,"Otis Adelbert Kline, Stanley G. Weinbaum stories ","""A Tribute to Stanley G. Weinbaum"" by Otto Binder ",Universal,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9039822,Startling Stories,25,Jan-43,1943,Standard, ,"Cover by Rudolph Belarski Alex Schomburg, Leo Morey art ",  ,Universal,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9039831,Startling Stories,34,Spring 1945,1945,Standard, ,Cover by Earle K. Bergey Edmond Hamilton story Leo Morey art,1st app. Captain Future in title.  ,Universal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1
+9039840,Startling Stories,43,Mar-47,1947,Standard, ,"Cover by Rudolph Belarski Murray Leinster, Manly Wade Wellman stories",Virgil Finlay art  ,Universal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+9039802,Startling Stories,5,Sep-39,1939,Standard, ,"Cover by Alex Schomburg Jack Williamson, Edmond Hamilton stories Jack Binder, Virgil Finlay art",1st Sci-Fi pulp cover by Alex Schomburg.  ,Universal,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,2
+9039857,Startling Stories,60,Jan-50,1950,Standard, ,"Earle K. Bergey cover A. E. Van Vogt, Edmond Hamilton, Henry Kuttner & John D. MacDonald story",Classic robot cover. Cover used for Vampirella #68 (4/1978). ,Universal,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,2
+9039860,Startling Stories,63,Jul-50,1950,Standard, ,"Earle K. Bergey cover E. Hamilton, Jack Vance, F. B. Long, Ray Bradbury & Leigh Brackett stories",Virgil Finlay art  ,Universal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+9039861,Startling Stories,64,Sep-50,1950,Standard, ,"Earle K. Bergey cover Jack Vance, E. Hamilton, Henry Kuttner & Leigh Brackett story. Virgil Finlay art",Classic girl in flames cover.  ,Universal,0,0,0,0,0,1,0,0,2,0,2,2,2,0,0,0,0,1,0,0,0,0,0,0,0,10
+9039862,Startling Stories,65,Nov-50,1950,Standard, ,"Earle K. Bergey cover Jack Vance, Edmond Hamilton, Leigh Brackett & L. Ron Hubbard stories","L. Ron Hubbard's final Pulp story  ",Universal,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9039906,Stirring Science Stories,2,Apr-41,1941,Albing, ,"Cover by Hannes Bok Frederik Pohl, James Blish, Cyril M. Kornbluth stories","Damon Knight, Henry Kuttner, Clark Ashton Smith, Donald A. Wollheim stories",Universal,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9040031,Strange Stories,11,Oct-40,1940,Standard, ,"Rudolph Belarski cover Henry Kuttner, Seabury Quinn, Robert Bloch & August Derleth stories","Warren Kremer, Leo Morey & C. A. Murphy art ",Universal,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9040023,Strange Stories,3,Jun-39,1939,Standard, ,"Manly Wade Wellman, Robert Bloch Henry Kuttner, August Derleth stories Alex Schomburg & Jack Binder art","Decapitation cover. Harry Parkhurst, Mark Marchioni, Leo Morey stories.",Universal,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,2
+9040024,Strange Stories,4,Aug-39,1939,Standard, ,"Cover by Earle K. Bergey Robert Bloch, Carl Jacobi, Henry Kuttner, August Derleth stories",Classic cover.  ,Universal,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9040038,Strange Tales,3,Jan-32,1932,Clayton, ,Cover by H. W. Wesso  ,"""Wolves of Darkness"" by Jack Williamson. ""The Door to Saturn"" by Clark Ashton Smith.",Universal,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9040042,Strange Tales,7,Jan-33,1933,Clayton, ,"H. W. Wesso cover. Clark Ashton Smith, Hugh B Cave, August Derleth story. H.W. Wesso, Amos Sewell art","""The Cairn on the Headland"" by Robert E. Howard. Last issue.",Universal,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9040071,Super Science Stories,18,Apr-49,1949,Popular, ,"Cover by Lawrence Stevens A. E. Van Vogt, Ray Bradbury, John D. MacDonald stories",  ,Universal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1
+9040072,Super Science Stories,19,Jul-49,1949,Popular, ,"Cover by Lawrence Stevens Ray Bradbury, Damon Knight, Arthur C. Clarke, John D. MacDonald stories",  ,Universal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+9040076,Super Science Stories,23,Mar-50,1950,Popular, ,"Cover by Norman Saunders A. E. Van Vogt, Arthur C. Clarke, Ray Bradbury, John D. MacDonald stories",  ,Universal,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+9040077,Super Science Stories,24,May-50,1950,Popular, ,Cover by Lawrence Stevens John D. MacDonald & Clifford D. Simak stories,Virgil Finlay art  ,Universal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1
+9040060,Super Science Stories,7,Mar-41,1941,Popular, ,Isaac Asimov & Ray Cummings stories ,  ,Universal,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+22802,Tailspin,nn,Nov-44,1944,Spotlight, ,L.B. Cole cover  ,  ,Universal,1,0,0,0,0,1,0,1,2,0,2,0,1,1,0,0,0,0,1,0,0,1,0,0,0,11
+22802,Tailspin,nn,Nov-44,1944,Spotlight, ,L.B. Cole cover  ,  ,Universal,1,0,0,0,0,1,0,1,2,0,1,0,1,1,0,0,0,0,1,0,0,1,0,0,0,10
+9040647,Tales of Magic and Mystery,4,Mar-28,1928,Personal Arts, ,Cover by Earle K. Bergey  ,"""Cool Air"" by H.P. Lovecraft. Walter Gibson ""Harry Houdini"" article ",Universal,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9040875,Ten Detective Aces,158,Mar-49,1949,Ace, ,Cover by Norman Saunders Ray Cummings story ,  ,Universal,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9040741,Ten Detective Aces,24,Mar-35,1935,Ace, ,Cover by Norman Saunders  ,Classic hypodermic needle cover.  ,Universal,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9040773,Ten Detective Aces,56,Nov-37,1937,Ace, ,Cover by Norman Saunders  ,  ,Universal,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9041016,Terror Tales,1,Sep-34,1934,Popular, ,Cover by Rudolph W. Zirm Hugh B. Cave story ,  ,Universal,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9041026,Terror Tales,11,Jul-35,1935,Popular, ,Cover by John Newton Howitt Hugh B. Cave story Amos Sewell art,  ,Universal,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,2
+9041029,Terror Tales,14,Oct-35,1935,Popular, ,Cover by John Newton Howitt Hugh B. Cave story Amos Sewell art,  ,Universal,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,3
+9041033,Terror Tales,18,Feb-36,1936,Popular, ,Cover by John Newton Howitt  ,  ,Universal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+9041034,Terror Tales,19,Mar-36,1936,Popular, ,Cover by John Newton Howitt  ,  ,Universal,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,2
+9041017,Terror Tales,2,Oct-34,1934,Popular, ,"Cover by John Newton Howitt Carl Jacobi, Hugh B. Cave stories Amos Sewell art",Classic skeleton cover.  ,Universal,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+9041035,Terror Tales,20,Apr-36,1936,Popular, ,Cover by John Newton Howitt Ray Cummings story ,  ,Universal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+9041036,Terror Tales,21,May-36,1936,Popular, ,Cover by John Newton Howitt Ray Cummings story ,  ,Universal,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,2
+9041038,Terror Tales,23,July/August 1936,1936,Popular, ,Cover by John Newton Howitt Hugh B. Cave story ,  ,Universal,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+9041040,Terror Tales,25,Nov/Dec 1936,1936,Popular, ,Cover by David Berger  ,  ,Universal,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,2
+9041041,Terror Tales,26,Jan/Feb 1937,1937,Popular, ,Cover by William F. Soare  ,  ,Universal,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,2
+9041042,Terror Tales,27,March/April 1937,1937,Popular, ,Cover by John Drew  ,  ,Universal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+9041043,Terror Tales,28,May/June 1937,1937,Popular, ,Cover by John Drew Ray Cummings story ,  ,Universal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+9041044,Terror Tales,29,July/August 1937,1937,Popular, ,Cover by John A. Coughlin Ray Cummings story ,  ,Universal,0,0,0,0,0,0,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,3
+9041045,Terror Tales,30,Sept/Oct 1937,1937,Popular, ,"Ray Cummings, Hugh B. Cave stories  ",  ,Universal,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9041046,Terror Tales,31,Nov/Dec 1937,1937,Popular, ,Cover by John Drew  ,  ,Universal,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,4
+9041047,Terror Tales,32,Jan/Feb 1938,1938,Popular, ,Frederick C. Davis story  ,  ,Universal,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,3
+9041048,Terror Tales,33,March/April 1938,1938,Popular, ,Arthur Leo Zagat story  ,  ,Universal,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2
+9041053,Terror Tales,38,Jan/Feb 1939,1939,Popular, ,Classic cover by Rudolph W. Zirm  ,  ,Universal,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9041057,Terror Tales,42,Sept/Oct 1939,1939,Popular, ,Cover by Rudolph W. Zirm  ,  ,Universal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1
+9041063,Terror Tales,48,Sep-40,1940,Popular, ,Wayne Rogers & Donald Dale story Amos Sewell art ,  ,Universal,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9041066,Terror Tales,51,Mar-41,1941,Popular, ,"Henry Kuttner, Hugh B. Cave stories  ",Last issue.  ,Universal,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9041024,Terror Tales,9,May-35,1935,Popular, ,Cover by John Newton Howitt  ,  ,Universal,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+9041406,Thrilling Adventures,61,Jan-37,1937,Standard, ,Cover by Rudolph Belarski Carl Jacobi story ,  ,Universal,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9041353,Thrilling Adventures,8,Aug-32,1932,Standard, ,Paul Regard &Wayne Rogers story  ,  ,Universal,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+9041599,Thrilling Detective,106,Aug-40,1940,Standard, ,  ,Classic severed heads cover.  ,Universal,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9041646,Thrilling Detective,153,Jul-44,1944,Standard, ,"Cover by Rudolph Belarski Fredric Brown, Leigh Brackett stories ",  ,Universal,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9041521,Thrilling Detective,28,Feb-34,1934,Standard, ,Johnston McCulley story Peter Costanza art ,Classic Sci-Fi cover.  ,Universal,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9041557,Thrilling Detective,64,Feb-37,1937,Standard, ,Ray Cummings story  ,  ,Universal,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9041589,Thrilling Detective,96,Oct-39,1939,Standard, ,Robert Leslie Bellem story Peter Costanza & Leo Morey art ,  ,Universal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+9041963,Thrilling Mystery,1,Oct-35,1935,Standard, ,Ray Cummings story  ,Classic hot poker cover.  ,Universal,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,2
+9049266,Thrilling Mystery,1,Oct-35,1935,Standard,Canada,Ray Cummings story  ,Classic hot poker cover.  ,Universal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1
+9041972,Thrilling Mystery,10,Aug-36,1936,Standard, ,  ,  ,Universal,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9041973,Thrilling Mystery,11,Sep-36,1936,Standard, ,"Rudolph Belarski cover Jack Williamson, Ray Cummings, Edmond Hamilton & Henry Kuttner stories",  ,Universal,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9041976,Thrilling Mystery,14,Dec-36,1936,Standard, ,Cover by Rudolph Belarski Henry Kuttner story ,  ,Universal,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9041978,Thrilling Mystery,16,Feb-37,1937,Standard, ,"Henry Kuttner, Hugh B. Cave stories  ",Classic Skull cover.  ,Universal,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,2
+9041979,Thrilling Mystery,17,Mar-37,1937,Standard, ,"Frank Belknap Long, Henry Kuttner stories ",  ,Universal,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9041980,Thrilling Mystery,18,Apr-37,1937,Standard, ,"Cover by Rudolph Belarski Jack Williamson, Ray Cummings, Hugh B. Cave stories",  ,Universal,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+9041981,Thrilling Mystery,19,May-37,1937,Standard, ,"Cover by Rudolph Belarski Frank Belknap Long, Ray Cummings, Hugh B. Cave stories",  ,Universal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1
+9041982,Thrilling Mystery,20,Jun-37,1937,Standard, ,"Carl Jacobi, Henry Kuttner, Hugh B. Cave stories Harry Parkhurst art",  ,Universal,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,2
+9041983,Thrilling Mystery,21,Jul-37,1937,Standard, ,"Henry Kuttner, Jack Williamson stories  ",  ,Universal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+9041987,Thrilling Mystery,25,Mar-38,1938,Standard, ,Henry Kuttner story  ,  ,Universal,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,2
+9041988,Thrilling Mystery,26,May-38,1938,Standard, ,"Ray Cummings, Hugh B. Cave stories  ",Severed head cover.  ,Universal,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,2
+9041989,Thrilling Mystery,27,Jul-38,1938,Standard, ,Ray Cummings story Alex Schomburg art ,  ,Universal,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,2
+9041965,Thrilling Mystery,3,Jan-36,1936,Standard, ,Cover by Rudolph Belarski Cornell Woolrich story ,  ,Universal,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+9041966,Thrilling Mystery,4,Feb-36,1936,Standard, ,"Cover by Rafael DeSoto Robert E. Howard story Ray Cummings, Frank Belknap Long stories",  ,Universal,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9042017,Thrilling Mystery,55,Mar-43,1943,Standard, ,  ,  ,Universal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+9042020,Thrilling Mystery,58,Winter 1943,1943,Standard, ,Ray Cummings story  ,  ,Universal,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9041968,Thrilling Mystery,6,Apr-36,1936,Standard, ,"Cover by Rafael DeSoto Edmond Hamilton, Ray Cummings stories ",  ,Universal,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9041970,Thrilling Mystery,8,Jun-36,1936,Standard, ,"Robert E. Howard story Henry Kuttner, Hugh B. Cave stories ",Classic skeleton cover.  ,Universal,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2
+9041971,Thrilling Mystery,9,Jul-36,1936,Standard, ,Cover by Rudolph Belarski Ray Cummings story ,  ,Universal,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2
+9042026,Thrilling Mystery Novel Magazine,64,Summer 1945,1945,Standard, ,  ,  ,Universal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+9042028,Thrilling Mystery Novel Magazine,66,Nov-45,1945,Standard, ,Cover by Rudolph Belarski  ,  ,Universal,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+9042542,Thrilling Wonder Stories,111,Winter 1955,1955,Standard, ,Cover by Ed Emshwiller Isaac Asimov story ,Last issue.  ,Universal,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+9042453,Thrilling Wonder Stories,22,Jan-40,1940,Standard, ,Howard V. Brown cover. Manly Wade Wellman story ,  ,Universal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1
+9042454,Thrilling Wonder Stories,23,Feb-40,1940,Standard, ,"Howard V. Brown cover. E. Hamilton, & C. A. Smith story. Alex Schomburg & Frank R. Paul art.",  ,Universal,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,2
+9042455,Thrilling Wonder Stories,24,Mar-40,1940,Standard, ,Howard V. Brown cover. Manly Wade Wellman & Otto Binder story Jack Binder &  Frank R. Paul art,  ,Universal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1
+9042456,Thrilling Wonder Stories,25,Apr-40,1940,Standard, ,"Howard V. Brown cover. Henry Kuttner story. Frank R. Paul, Jack Binder & Alex Schomburg art.",Classic dinosaur cover.  ,Universal,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,2
+9042457,Thrilling Wonder Stories,26,May-40,1940,Standard, ,"Howard V. Brown cover. Henry Kuttner, Edmond Hamilton & Otto Binder stories. Frank R. Paul & Alex Schomburg art.",Ad for Exciting Comics #1  ,Universal,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,2
+9042458,Thrilling Wonder Stories,27,Jun-40,1940,Standard, ,"Howard V. Brown cover. Jack Binder art. H. Kuttner, E. Hamilton, J. Williamson, Mort Weisinger & Nelson Bond story.",  ,Universal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1
+9042459,Thrilling Wonder Stories,28,Jul-40,1940,Standard, ,"Howard V. Brown cover. Alfred Bester & Mort Weisinger story Jack Binder, Frank R. Paul art",Cover used for Jimmy Olsen #53 (6/1961).  ,Universal,0,0,0,0,0,0,0,1,1,1,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,6
+9042460,Thrilling Wonder Stories,29,Aug-40,1940,Standard, ,"Howard V. Brown cover. M. W. Wellman, O. Binder, R. Cummings & M Weisinger story. Frank R. Paul & Jack Binder art.",  ,Universal,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+9042461,Thrilling Wonder Stories,30,Sep-40,1940,Standard, ,"Earle K. Bergey cover. Mort Weisinger, Henry Kuttner & Ray Cummings story. Frank R. Paul & Jack Binder art.",  ,Universal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+9042462,Thrilling Wonder Stories,31,Oct-40,1940,Standard, ,"Earle K. Bergey cover. Mort Weisinger, H. E. Hamilton, Manly Wade Wellman story Frank R. Paul & H.W. Wesso art.",  ,Universal,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,2
+9042518,Thrilling Wonder Stories,87,Aug-50,1950,Standard, ,"Earle K. Bergey cover. Virgil Finlay art Arthur C. Clarke, L. Ron Hubbard, Henry Kuttner &  Jack Vance story.",  ,Universal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+333515,Thrills Incorporated,7,Sep-50,1950,Associated General Pub.,Australia,Ace Carter and John Kent stories T. Brand cover ,  ,Universal,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+27175,Trail Blazers,1,1941,1941,Street & Smith Pub., ,Jack Binder art  ,  ,Universal,0,0,0,0,0,0,0,0,1,0,0,1,0,2,1,1,0,0,0,0,0,0,0,0,0,6
+208778,Trail Blazers,2,1942,1942,Street & Smith Pub., ,  ,  ,Universal,1,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,4
+189741,Trail Blazers,3,Jul-42,1942,Street & Smith Pub., ,  ,  ,Universal,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+55658,Trail Blazers,4,Oct-42,1942,Street & Smith Pub., ,  ,  ,Universal,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,3
+213701,Two Gun Western,5,Dec-50,1950,Bell Features, ,  ,  ,Universal,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2
+248309,Two Gun Western,8,1951,1951,Bell Features,Canada,  ,  ,Universal,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+9043778,Two-Book Detective Magazine,8,Nov-34,1934,Two-Books, ,  ,  ,Universal,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+9043822,Uncanny Stories,1,Apr-41,1941,Red Circle, ,Ray Cummings story Jack Kirby & Alex Schomburg art,  ,Universal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+9043844,Uncanny Tales,1,April/May 1939,1939,Red Circle, ,J. W. Scott cover Alex Schomburg art ,"Beheaded girl panel ""Revelry in Hell"" by Donald Graham ",Universal,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+9043838,Uncanny Tales,12,Apr-42,1942,Adam Publishing,Canada,K. P. Ainsworth cover Hannes Bok art ,  ,Universal,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9043845,Uncanny Tales,2,Aug-39,1939,Red Circle, ,J. W. Scott cover Robert Leslie Bellem story Alex Schomberg art,  ,Universal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1
+9043978,Unknown,15,May-40,1940,Street & Smith Pub., ,"Cover by Pagsilang R. Isip Lester Del Rey, Jack Williamson stories ",  ,Universal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1
+9043989,Unknown,26,Aug-41,1941,Street & Smith Pub., ,"Henry Kuttner, Fredric Brown, Theodore Sturgeon, L. Ron Hubbard, Nelson Bond stories",Numbering continued as Unknown Worlds.  ,Universal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+9043966,Unknown,3,May-39,1939,Street & Smith Pub., ,Cover by H. W. Scott Hubert Rogers art Robert Bloch story,"""Danger in the Dark"" by L Ron Hubbard.  ",Universal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+41766,War Stories,5,1942,1942,Dell Publishing, ,"Dave Berg story and art Jack Keller, Bob Jenny, Jim Chambers and Tom Hickey art",1st issue. Numbering continued from War Comics #4 Origin of Whistler.,Universal,0,0,0,0,1,1,1,0,0,0,2,0,0,0,1,0,0,1,0,0,0,0,0,0,0,7
+41766,War Stories,5,1942,1942,Dell Publishing, ,"Dave Berg story and art Jack Keller, Bob Jenny, Jim Chambers and Tom Hickey art",1st issue. Numbering continued from War Comics #4 Origin of Whistler.,Universal,0,0,0,0,1,1,1,0,0,1,2,0,0,0,1,0,0,1,0,0,0,0,0,0,0,8
+89501,War Stories,6,1942,1942,Dell Publishing, ,"Jim Chambers, Bob Kenny and John Forte art ",  ,Universal,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,1,0,0,0,0,0,0,0,0,4
+89501,War Stories,6,1942,1942,Dell Publishing, ,"Jim Chambers, Bob Kenny and John Forte art ",  ,Universal,0,0,0,0,0,0,0,0,0,1,0,1,1,0,1,0,1,0,0,0,0,0,0,0,0,5
+52434,War Stories,7,11/42-1/43,1943,Dell Publishing, ,Bob Jenney cover and art Jim Chambers and Tom Hickey art ,Night Devils appearance.  ,Universal,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,0,0,2,1,1,0,0,0,0,7
+52434,War Stories,7,11/42-1/43,1943,Dell Publishing, ,Bob Jenney cover and art Jim Chambers and Tom Hickey art ,Night Devils appearance.  ,Universal,0,0,0,0,0,0,0,0,0,1,1,1,0,0,1,0,0,0,2,1,1,0,0,0,0,8
+89502,War Stories,8,2/4/43,1943,Dell Publishing, ,"Worth Carnahan story Jim Chambers, Tom Hickey and Bob Jenny art",Grey tone cover. Last issue. ,Universal,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,2,2,0,1,0,0,0,0,0,0,9
+89502,War Stories,8,2/4/43,1943,Dell Publishing, ,"Worth Carnahan story Jim Chambers, Tom Hickey and Bob Jenny art",Grey tone cover. Last issue. ,Universal,0,0,0,0,0,0,0,0,0,1,0,0,1,1,2,2,2,0,1,0,0,0,0,0,0,10
+9044507,Weird Tales,107,Nov-32,1932,Popular, ,Cover by J. Allen St. John J. Allen St. John art Robert E. Howard story,"Otis Adelbert Kline, Seabury Quinn, Victor Rousseau, Clark Ashton Smith, Robert Bloch stories",Universal,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9044508,Weird Tales,108,Dec-32,1932,Popular, ,"Cover by J. Allen St. John Vincent Starrett, Otis Adelbert Kline, Seabury Quinn, Edmond Hamilton stories",1st appearance Conan the Barbarian by Robert E. Howard. Donald Wandrei stories.,Universal,0,0,0,0,1,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4
+9044510,Weird Tales,110,Feb-33,1933,Popular, ,Cover by J. Allen St. John J. Allen St. John art H. P. Lovecraft story,"Donald Wandrei, Otis Adelbert Kline, Clark Ashton Smith, Hugh B. Cave, August Derleth, Henry S. Whitehead stories",Universal,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9044511,Weird Tales,111,Mar-33,1933,Popular, ,"Cover by Margaret Brundage Seabury Quinn, Otis Adelbert Kline, Clark Ashton Smith stories",3rd appearance Conan the Barbarian by Robert E. Howard. ,Universal,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,2
+9044512,Weird Tales,112,Apr-33,1933,Popular, ,Cover by J. Allen St. John J. Allen St. John art Robert E. Howard story,"Edmond Hamilton, Clark Ashton Smith, Carl Jacobi, Otis Adelbert Kline, Jack Williamson, August Derleth stories",Universal,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9044513,Weird Tales,113,May-33,1933,Popular, ,Cover by J. Allen St. John J. Allen St. John art Robert E. Howard story,"Donald Wandrei, Clark Ashton Smith, Jack Williamson, Hugh B. Cave, August Derleth stories",Universal,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9044516,Weird Tales,116,Aug-33,1933,Popular, ,Cover by Margaret Brundage J. Allen St. John art ,"Jack Williamson, Seabury Quinn, Carl Jacobi, Henry Kuttner, August Derleth, Henry S. Whitehead stories",Universal,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9044518,Weird Tales,118,Oct-33,1933,Popular, ,Cover by Margaret Brundage H. P. Lovecraft story Conan story by Robert E. Howard,"Classic Bat Woman cover. Jack Williamson, Frank Belknap Long, Seabury Quinn, Clark Ashton Smith story.",Universal,0,0,0,0,1,0,1,0,0,3,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,7
+9044520,Weird Tales,120,Dec-33,1933,Popular, ,"Cover by Margaret Brundage Robert E. Howard story Seabury Quinn, Donald Wandrei stories",  ,Universal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+9044521,Weird Tales,121,Jan-34,1934,Popular, ,Cover by Margaret Brundage Conan story by Robert E. Howard ,"Clark Ashton Smith, Seabury Quinn, Jack Williamson, A. Merritt, Howard Wandrei stories",Universal,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+9044524,Weird Tales,124,Apr-34,1934,Popular, ,"Cover by Margaret Brundage C.L. Moore, Frank Belknap Long, Edmond Hamilton stories","Clark Ashton Smith, Carl Jacobi, Robert Bloch stories Conan story by Robert E. Howard.",Universal,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9044528,Weird Tales,128,Aug-34,1934,Popular, ,"Cover by Margaret Brundage Clark Ashton Smith, C.L. Moore, Frank Belknap Long, Hugh B. Cave stories",2nd cover appearance of Conan. Conan story by Robert E. Howard. ,Universal,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+9044531,Weird Tales,131,Nov-34,1934,Popular, ,"Cover by Margaret Brundage H. P. Lovecraft, Robert Bloch, August Derleth stories",Conan story by Robert E. Howard.  ,Universal,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2
+9044532,Weird Tales,132,Dec-34,1934,Popular, ,"Cover by Margaret Brundage Clark Ashton Smith, Manly Wade Wellman, Robert Bloch, C.L. Moore stories",Conan story by Robert E. Howard. August Derleth story ,Universal,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,2
+9044535,Weird Tales,135,Mar-35,1935,Popular, ,Cover by Margaret Brundage Otis Adelbert Kline story ,Conan story by Robert E. Howard.  ,Universal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+9044537,Weird Tales,137,May-35,1935,Popular, ,"Margaret Brundage cover H. P. Lovecraft, Otis Adelbert Kline, Clark Ashton Smith, Robert Bloch stories","Conan story by Robert E. Howard. Henry Kuttner, August Derleth stories Joe Doolin & Hugh Rankin art",Universal,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2
+9044539,Weird Tales,139,Jul-35,1935,Popular, ,"Cover by Margaret Brundage Jack Binder art. Edmond Hamilton, Henry Kuttner, C.L. Moore stories",  ,Universal,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9044414,Weird Tales,14,Nov-24,1924,Popular, ,"Cover by Andrew Brosnatch Otis Adelbert Kline, Seabury Quinn, Frank Belknap Long stories","H. P. Lovecraft, Henry S. Whitehead stories ",Universal,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9044540,Weird Tales,140,Aug-35,1935,Popular, ,Cover by Margaret Brundage Jack Binder art ,"Seabury Quinn, Clark Ashton Smith, Henry Kuttner stories ",Universal,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,2
+9044541,Weird Tales,141,Sep-35,1935,Popular, ,Cover by Margaret Brundage Jack Binder art ,"Clark Ashton Smith, Robert Bloch, Edmond Hamilton stories ",Universal,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,3
+9044542,Weird Tales,142,Oct-35,1935,Popular, ,Cover by Margaret Brundage Jack Binder art ,"Edmond Hamilton, Seabury Quinn, Clark Ashton Smith, C.L. Moore & Otto Binder stories",Universal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1
+9044543,Weird Tales,143,Nov-35,1935,Popular, ,Cover by Margaret Brundage Jack Binder art ,"Conan story by Robert E. Howard. Clark Ashton Smith, Henry Kuttner, August Derleth stories",Universal,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9044544,Weird Tales,144,Dec-35,1935,Popular, ,"Cover by Margaret Brundage Jack Binder, Virgil Finlay art Conan story by Robert E. Howard","3rd cover appearance of Conan. Clark Ashton Smith, Edmond Hamilton, Robert Bloch, Henry Kuttner stories",Universal,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+9044545,Weird Tales,145,Jan-36,1936,Popular, ,"Cover by Margaret Brundage H. P. Lovecraft, Seabury Quinn, August Derleth stories",Conan story by Robert E. Howard.  ,Universal,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2
+9044546,Weird Tales,146,Feb-36,1936,Popular, ,"Cover by Margaret Brundage H. P. Lovecraft, C.L. Moore, Henry Kuttner stories",Conan story by Robert E. Howard.  ,Universal,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+9044547,Weird Tales,147,Mar-36,1936,Popular, ,"Margaret Brundage cover Virgil Finlay, Jack Binder art ","Conan story by Robert E. Howard. Clark Ashton Smith, Edmond Hamilton, Henry Kuttner, Seabury Quinn stories",Universal,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9044548,Weird Tales,148,Apr-36,1936,Popular, ,Cover by Margaret Brundage Virgil Finlay art Conan story by Robert E. Howard,"Carl Jacobi, Robert Bloch, Clark Ashton Smith, Henry Kuttner, Jack Williamson, August Derleth stories",Universal,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,2
+9044549,Weird Tales,149,May-36,1936,Popular, ,"Cover by Margaret Brundage Virgil Finlay art Jack Williamson, Robert Bloch stories","Clark Ashton Smith, Seabury Quinn, Edmond Hamilton, Manly Wade Wellman, Donald Wandrei, August Derleth stories",Universal,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+9044550,Weird Tales,150,Jun-36,1936,Popular, ,Cover by Margaret Brundage Virgil Finlay art Robert E. Howard story,"Henry Kuttner, Robert Bloch, Jack Williamson, August Derleth stories Dwight Boyce & Hugh Rankin art",Universal,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+9044551,Weird Tales,151,Jul-36,1936,Popular, ,"Cover by Margaret Brundage. Virgil Finlay art. Clark Ashton Smith, Edmond Hamilton, Manly Wade Wellman stories","Conan ""Red Nails"" by Robert E. Howard. Henry Kuttner, Carl Jacobi, Robert Bloch, C.L. Moore, August Derleth story.",Universal,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+9044552,Weird Tales,152,Aug/Sept 1936,1936,Popular, ,"Cover by Margaret Brundage Virgil Finlay art Edmond Hamilton, August Derleth stories","Conan ""Red Nails"" by Robert E. Howard.  ",Universal,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9044553,Weird Tales,153,Oct-36,1936,Popular, ,"Cover by J. Allen St. John Virgil Finlay, J. Allen St. John art Sir Arthur Conan Doyle story","Conan ""Red Nails"" by Robert E. Howard. C.L. Moore, Robert Bloch, Henry Kuttner, Seabury Quinn stories",Universal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+9044563,Weird Tales,163,Aug-37,1937,Popular, ,"Cover by Margaret Brundage Virgil Finlay art H. P. Lovecraft, Robert E. Howard story","Edmond Hamilton, Henry Kuttner, Manly Wade Wellman stories ",Universal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+9044566,Weird Tales,166,Nov-37,1937,Popular, ,Margaret Brundage cover Virgil Finlay art ,"C.L. Moore, Seabury Quinn, Henry Kuttner, Robert Bloch, Edmond Hamilton H. P. Lovecraft & Robert E. Howard story",Universal,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+9044567,Weird Tales,167,Dec-37,1937,Popular, ,"Cover by Virgil Finlay Virgil Finlay art H. P. Lovecraft, Robert E. Howard story","Robert Bloch, Seabury Quinn, Edmond Hamilton, Donald Wandrei, Henry Kuttner, Manly Wade Wellman stories",Universal,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9044569,Weird Tales,169,Feb-38,1938,Popular, ,"Cover by Virgil Finlay Virgil Finlay art H. P. Lovecraft, Robert E. Howard story","Seabury Quinn, Henry Kuttner, Manly Wade Wellman, Henry S. Whitehead stories",Universal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+9044571,Weird Tales,171,Apr-38,1938,Popular, ,"Cover by Virgil Finlay Virgil Finlay art H. P. Lovecraft, Robert E. Howard story","Carl Jacobi, Clark Ashton Smith, Seabury Seabury Quinn, Robert Bloch, Vincent Starrett, Jack Williamson stories",Universal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+9044572,Weird Tales,172,May-38,1938,Popular, ,"Cover by Margaret Brundage Virgil Finlay art H. P. Lovecraft, Robert E. Howard story","Henry Kuttner, Seabury Quinn, Edmond Hamilton, Jack Williamson stories ",Universal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+9044573,Weird Tales,173,Jun-38,1938,Popular, ,"Cover by Margaret Brundage Virgil Finlay art H. P. Lovecraft, Robert E. Howard story","Frank Belknap Long, Seabury Quinn, Robert Bloch, Henry Kuttner, Clark Ashton Smith stories",Universal,0,0,0,0,0,0,0,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3
+9044575,Weird Tales,175,Aug-38,1938,Popular, ,"Cover by Margaret Brundage H. P. Lovecraft, Seabury Quinn, Edmond Hamilton stories","Robert E. Howard story Manly Wade Wellman, August Derleth stories",Universal,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,2
+9044594,Weird Tales,181,Feb-39,1939,Short Stories, ,"Cover by Virgil Finlay Virgil Finlay art H. P. Lovecraft, Robert E. Howard story","Robert Bloch, Seabury Quinn, Clark Ashton Smith, Manly Wade Wellman, Donald Wandrei, Henry Kuttner, Derleth stories",Universal,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9044596,Weird Tales,183,Apr-39,1939,Short Stories, ,Cover by Virgil Finlay Virgil Finlay art H. P. Lovecraft story,"Seabury Quinn, Edmond Hamilton, Robert Bloch, Vincent Starrett, Henry Kuttner, Manly Wade Wellman, C.L. Moore stories",Universal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,2
+9044597,Weird Tales,184,May-39,1939,Short Stories, ,"Cover by Harold S. Delay Virgil Finlay art H. P. Lovecraft, Robert E. Howard story","Robert Bloch, Seabury Quinn, Lester Del Rey, Henry Kuttner, Clark Ashton Smith stories",Universal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+9044601,Weird Tales,188,Oct-39,1939,Short Stories, ,"Cover by Harold S. Delay Virgil Finlay art. H. P. Lovecraft, Robert E. Howard story","Seabury Quinn, Robert Bloch, Henry Kuttner stories ",Universal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+9044603,Weird Tales,190,Dec-39,1939,Short Stories, ,"Cover by Hannes Bok Virgil Finlay, Hannes Bok art H. P. Lovecraft story","Seabury Quinn, Robert Bloch, Clark Ashton Smith, C.L. Moore, Frank Belknap Long stories",Universal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+9044608,Weird Tales,195,Sep-40,1940,Short Stories, ,"Ray Quigley cover H. Bedford-Jones, Edmond Hamilton & Nelson Bond stories. Hannes Bok art",  ,Universal,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,2
+9044610,Weird Tales,197,Jan-41,1941,Short Stories, ,"Cover by Harold S. Delay Virgil Finlay, Hannes Bok art ","Henry Kuttner, Robert Bloch, Seabury Quinn, Nelson Bond stories ",Universal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1
+9044611,Weird Tales,198,Mar-41,1941,Short Stories, ,"Cover by Margaret Brundage Margaret Brundage, Hannes Bok art ","Seabury Quinn, Donald Wandrei, H. Bedford-Jones, Nelson Bond, August Derleth stories",Universal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+9044612,Weird Tales,199,May-41,1941,Short Stories, ,Hannes Bok cover & art  ,"H. P. Lovecraft, Seabury Quinn, August Derleth, Donald Wandrei, Carl Jacobi, Robert Bloch stories",Universal,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+9044631,Weird Tales,218,Jul-44,1944,Short Stories, ,"Cover by A. R. Tilburne Seabury Quinn, Manly Wade Wellman, Robert Bloch, Ray Bradbury stories",August Derleth story  ,Universal,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9044422,Weird Tales,22,Jul-25,1925,Popular, ,Cover by Andrew Brosnatch H. P. Lovecraft story 1st Robert E. Howard published work,"1st H. Warner Munn in Weird Tales Seabury Quinn, Henry S. Whitehead stories",Universal,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9044423,Weird Tales,23,Aug-25,1925,Popular, ,"Cover/art by Andrew Brosnatch Robert E. Howard story Murray Leinster, Seabury Quinn stories",  ,Universal,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9044658,Weird Tales,245,Jan-49,1949,Short Stories, ,Cover by Lee Brown Coye Lee Brown Coye art ,"Robert Bloch, Robert A. Heinlein, John D. MacDonald stories ",Universal,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9044660,Weird Tales,247,May-49,1949,Short Stories, ,"Cover by John Giunta Matt Fox, Lee Brown Coye art ","Carl Jacobi, Anthony Boucher, Seabury Quinn, August Derleth, John D. MacDonald stories",Universal,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9044661,Weird Tales,248,Jul-49,1949,Short Stories, ,Cover by Matt Fox Matt Fox art ,"Fredric Brown, Robert Bloch, Seabury Quinn, Fritz Leiber stories ",Universal,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9044665,Weird Tales,252,Mar-50,1950,Short Stories, ,"Cover by Lee Brown Coye Matt Fox, Lee Brown Coye art ","Manly Wade Wellman, Frank Belknap Long, Clark Ashton Smith stories ",Universal,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9044440,Weird Tales,40,Jan-27,1927,Popular, ,"Cover by C. Barker Petrie, Jr. H. P. Lovecraft, Victor Rousseau, August Derleth stories",Robert E. Howard story.  ,Universal,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+9044453,Weird Tales,53,Feb-28,1928,Popular, ,"Cover by C. C. Senf Robert E. Howard, Seabury Quinn, Ray Cummings stories","""The Call of Cthulhu"" by H.P. Lovecraft. 1st appearance Cthulhu. ",Universal,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9044468,Weird Tales,68,May-29,1929,Popular, ,"Cover by C. C. Senf Edmond Hamilton, Donald Wandrei, Seabury Quinn, Clark Ashton Smith stories",  ,Universal,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9044490,Weird Tales,90,April/May 1931,1931,Popular, ,"Cover by C. C. Senf H. P. Lovecraft, Edmond Hamilton, Clark Ashton Smith stories",Robert E. Howard story.  ,Universal,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9044493,Weird Tales,93,Sep-31,1931,Popular, ,"Cover by C. C. Senf. Seabury Quinn, Clark Ashton Smith, Otis Adelbert Kline, August Derleth stories",Robert E. Howard story.  ,Universal,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+39534,Western Action Thrillers,1,Apr-37,1937,Dell Publishing, ,  ,Only issue. Buffalo Bill story. ,Universal,0,0,0,0,0,0,0,0,2,0,0,0,1,0,0,1,1,0,1,0,0,0,0,0,0,6
+9046642,Western Story Magazine,646,3-Sep-32,1932,Street & Smith Pub., ,Cover by Walter M. Baumhofer Walt Coburn story ,  ,Universal,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+5016259,Whisper,v2 #1,May-48,1948,"Whisper, Inc.", ,Peter Driben cover  ,  ,Universal,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+5016208,Whisper,v2 #6,Mar-49,1949,"Whisper, Inc.", ,Peter Driben cover  ,  ,Universal,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+5016209,Whisper,v3 #3,Sep-49,1949,"Whisper, Inc.", ,Peter Driben cover  ,Jane Russell & Mae West photos  ,Universal,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+5007191,Whiz Bang,4,Sep-42,1942,"Country Press, Inc.", ,  ,"Hitler, Mussolini & Tojo cover.  ",Universal,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+232487,Wild West Weekly,1134,11-Jul-24,1924,Frank Tousey, ,  ,  ,Universal,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+5010763,Wild West Weekly,418,21-Oct-10,1910,Frank Tousey, ,Fank Tousey & Colonel Ralph Fenton text  ,"""Young Wild West and the Cow Girl Queen""  ",Universal,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+5010765,Wild West Weekly,479,22-Dec-11,1911,Frank Tousey, ,"Frank Tousey, Paul Braddon, D.W. Stevens & Colonel Ralph Fenton text ","""Young Wild West Corralling The Creeks""  ",Universal,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+213696,Wild Western,7,Jun-49,1949,Bell Features, ,  ,  ,Universal,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+296010,Work and Win,1249,10-Nov-22,1922,Frank Tousey, ,  ,  ,Universal,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+5004166,Work and Win,134,28-Jun-01,1901,Frank Tousey, ,  ,"""Fred Fearnot in Atlanta.""  ",Universal,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+5004176,Work and Win,328,17-Mar-05,1905,Frank Tousey, ,  ,"""Fred Fearnot and the Boy Acrobat.""  ",Universal,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+5004163,Work and Win,360,27-Oct-05,1905,Frank Tousey, ,  ,"""Fred Fearnot and the Indian Guide.""  ",Universal,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+5004164,Work and Win,567,15-Oct-09,1909,Frank Tousey, ,  ,"""Fred Fearnot's Gridiron Victory.""  ",Universal,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+5004165,Work and Win,573,26-Nov-09,1909,Frank Tousey, ,  ,"""Fred Fearnot on a Wolf Hunt.""  ",Universal,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
