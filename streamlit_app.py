@@ -17,7 +17,9 @@ Filter by titles or search for art/key comments and press Update Plot to compare
 Brought to you by RarePulps and Fanalytics
 
 """
-pulps = pd.read_csv('CGC_GRADED_PULPS.csv')
+# pulps = pd.read_csv('CGC_GRADED_PULPS.csv')
+pulps = pd.read_csv('CGC_POPULATION.csv')
+
 pulps = pulps.drop(pulps.columns[-1], axis=1)
 pulps_long = pd.melt(pulps, id_vars=['ComicID', 'Title', 'Issue_Num', 'Issue_Date', 'Issue_Year', 'Publisher'
                                      , 'Country', 'ArtComments', 'KeyComments', 'Label_Category'], 
