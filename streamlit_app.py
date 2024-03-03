@@ -28,30 +28,21 @@ pulps_long['Grade'] = pulps_long['Grade_Category'].str.replace('POP_', '').str.r
 pulps_long.drop('Grade_Category', axis=1)
 
 
-# Filter out rows with null issue years and null grades
-filtered_data = pulps_long.dropna(subset=['Issue_Year', 'Grade'])
-
-# Get unique comic book titles and issue numbers
-unique_titles = pulps_long['Title'].unique()
-issue_numbers = pulps_long['Issue_Num'].unique()
-
-# Define a function to filter data based on selected title, issue number, and search term
-def filter_data(title, issue_num, search_term):
+# Define function to filter data based on selected title and search term
+def filter_data(title, search_term):
     filtered_data = pulps_long
     if title:
         filtered_data = filtered_data[filtered_data['Title'] == title]
-    if issue_num:
-        filtered_data = filtered_data[filtered_data['Issue_Num'] == issue_num]
     if search_term:
         search_term_lower = search_term.lower()
         filtered_data = filtered_data[(filtered_data['ArtComments'].str.lower().str.contains(search_term_lower, na=False)) | 
                                       (filtered_data['KeyComments'].str.lower().str.contains(search_term_lower, na=False))]
     return filtered_data
 
-# Define a function to update the bar chart based on the selected titles, issue numbers, and search term
+# Define function to update the bar chart based on the selected titles and search term
 def update_plot(title1, title2, issue_num1, issue_num2, search_term1, search_term2):
-    filtered_data1 = filter_data(title1, issue_num1, search_term1)
-    filtered_data2 = filter_data(title2, issue_num2, search_term2)
+    filtered_data1 = filter_data(title1, search_term1)
+    filtered_data2 = filter_data(title2, search_term2)
     if filtered_data1.empty and filtered_data2.empty:
         st.write("No data to display.")
         return
@@ -96,26 +87,22 @@ def update_plot(title1, title2, issue_num1, issue_num2, search_term1, search_ter
     # Show plot
     st.pyplot(fig)
 
-# Default values for filters
-default_title1 = 'Weird Tales'
-default_title2 = 'Amazing Stories'
-default_issue_num1 = ''
-default_issue_num2 = ''
-default_search_term1 = ''
-default_search_term2 = ''
-
 # Create widgets
 col1, col2 = st.columns(2)
 
 with col1:
-    title_dropdown1 = st.selectbox('Title 1:', [''] + list(unique_titles), index=np.where(unique_titles == default_title1)[0][0], key='title1')
-    issue_num_dropdown1 = st.selectbox('Issue Number 1:', [''] + list(issue_numbers), index=np.where(issue_numbers == default_issue_num1)[0][0], key='issue_num1')
-    search_box1 = st.text_input('Search Term for Title 1:', value=default_search_term1, key='search1')
+    title_dropdown1 = st.selectbox('Title 1:', [''] + list(pulps_long['Title'].unique()), key='title1')
+    search_box1 = st.text_input('Search Term for Title 1:', key='search1')
+    if title_dropdown1:
+        filtered_issue_nums1 = pulps_long[pulps_long['Title'] == title_dropdown1]['Issue_Num'].unique()
+        issue_num_dropdown1 = st.selectbox('Issue Num for Title 1:', [''] + list(filtered_issue_nums1), key='issue_num1')
 
 with col2:
-    title_dropdown2 = st.selectbox('Title 2:', [''] + list(unique_titles), index=np.where(unique_titles == default_title2)[0][0], key='title2')
-    issue_num_dropdown2 = st.selectbox('Issue Number 2:', [''] + list(issue_numbers), index=np.where(issue_numbers == default_issue_num2)[0][0], key='issue_num2')
-    search_box2 = st.text_input('Search Term for Title 2:', value=default_search_term2, key='search2')
+    title_dropdown2 = st.selectbox('Title 2:', [''] + list(pulps_long['Title'].unique()), key='title2')
+    search_box2 = st.text_input('Search Term for Title 2:', key='search2')
+    if title_dropdown2:
+        filtered_issue_nums2 = pulps_long[pulps_long['Title'] == title_dropdown2]['Issue_Num'].unique()
+        issue_num_dropdown2 = st.selectbox('Issue Num for Title 2:', [''] + list(filtered_issue_nums2), key='issue_num2')
 
 # Update plot
 update_plot(title_dropdown1, title_dropdown2, issue_num_dropdown1, issue_num_dropdown2, search_box1, search_box2)
