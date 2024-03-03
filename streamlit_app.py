@@ -72,27 +72,27 @@ def update_plot(title1, title2, search_term1, search_term2):
     
     if not filtered_data1.empty:
         axes[0].bar(grade_totals1['Grade'], grade_totals1['Total Value'], width=0.4, color='skyblue', label=title1)
-        axes[0].set_title(title1)
-        axes[0].set_xlabel('Grade')
-        axes[0].set_ylabel('Total Value')
+        axes[0].set_title(title1, fontsize=20)
+        axes[0].set_xlabel('Grade', fontsize=16)
+        axes[0].set_ylabel('Total Value', fontsize=16)
         axes[0].set_xticks(np.arange(11))
         axes[0].legend()
-        axes[0].text(0.5, -0.25, f'Weighted Average Grade: {weighted_avg_grade1}', horizontalalignment='center', verticalalignment='center', transform=axes[0].transAxes)
-        axes[0].text(0.5, -0.30, f'Total Graded: {total_graded1}', horizontalalignment='center', verticalalignment='center', transform=axes[0].transAxes)
+        axes[0].text(0.5, -0.25, f'Weighted Average Grade: {weighted_avg_grade1}', fontsize=14, horizontalalignment='center', verticalalignment='center', transform=axes[0].transAxes)
+        axes[0].text(0.5, -0.30, f'Total Graded: {total_graded1}', fontsize=14, horizontalalignment='center', verticalalignment='center', transform=axes[0].transAxes)
     
     if not filtered_data2.empty:
         axes[1].bar(grade_totals2['Grade'], grade_totals2['Total Value'], width=0.4, color='orange', label=title2)
-        axes[1].set_title(title2)
-        axes[1].set_xlabel('Grade')
-        axes[1].set_ylabel('Total Value')
+        axes[1].set_title(title2, fontsize=20)
+        axes[1].set_xlabel('Grade', fontsize=16)
+        axes[1].set_ylabel('Total Value', fontsize=16)
         axes[1].set_xticks(np.arange(11))
         axes[1].legend()
-        axes[1].text(0.5, -0.25, f'Weighted Average Grade: {weighted_avg_grade2}', horizontalalignment='center', verticalalignment='center', transform=axes[1].transAxes)
-        axes[1].text(0.5, -0.30, f'Total Graded: {total_graded2}', horizontalalignment='center', verticalalignment='center', transform=axes[1].transAxes)
+        axes[1].text(0.5, -0.25, f'Weighted Average Grade: {weighted_avg_grade2}', fontsize=14, horizontalalignment='center', verticalalignment='center', transform=axes[1].transAxes)
+        axes[1].text(0.5, -0.30, f'Total Graded: {total_graded2}', fontsize=14, horizontalalignment='center', verticalalignment='center', transform=axes[1].transAxes)
     
     # Show plot
     st.pyplot(fig)
-
+  
 # Create widgets
 col1, col2 = st.columns(2)
 
