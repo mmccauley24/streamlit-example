@@ -104,6 +104,9 @@ with col2:
     search_box2 = st.text_input('Search Term for Title 2:')
     st.text(" ")  # Add empty space for better alignment
 
-# Create button to update plot
-if st.button('Update Plot'):
-    update_plot(title_dropdown1, title_dropdown2, search_box1, search_box2)
+# # Create button to update plot
+# if st.button('Update Plot'):
+#     update_plot(title_dropdown1, title_dropdown2, search_box1, search_box2)
+
+# Update plot
+update_plot(title_dropdown1, title_dropdown2, search_box1, search_box2)
