@@ -2,6 +2,14 @@ import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 import streamlit as st
+from wordcloud import WordCloud
+
+'''
+#CGC Analytics
+
+Choose two titles to compare grade distributions of Universal CGC graded comics and pulps
+
+'''
 
 # Read data
 pulps = pd.read_csv('CGC_POPULATION.csv')
@@ -112,3 +120,41 @@ with col2:
 
 # Update plot
 update_plot(title_dropdown1, title_dropdown2, issue_num_dropdown1, issue_num_dropdown2, search_box1, search_box2)
+
+
+#### New section
+
+'''
+#Key Comment Wordcloud
+
+Distribution over time and wordcloud test
+
+'''
+
+# Grade Distribution Over Time
+def plot_grade_distribution_over_time(data):
+    plt.figure(figsize=(10, 6))
+    data.groupby('Year')['Grade'].mean().plot(marker='o', linestyle='-')
+    plt.title('Average Grade Over Time')
+    plt.xlabel('Year')
+    plt.ylabel('Average Grade')
+    plt.grid(True)
+    plt.show()
+
+# Word Cloud of Key Comments
+def generate_word_cloud(data):
+    key_comments_text = ' '.join(data['Key Comments'].dropna())
+    wordcloud = WordCloud(width=800, height=400, background_color='white').generate(key_comments_text)
+
+    plt.figure(figsize=(10, 6))
+    plt.imshow(wordcloud, interpolation='bilinear')
+    plt.title('Word Cloud of Key Comments')
+    plt.axis('off')
+    plt.show()
+
+# Assuming 'pulps_long' is the DataFrame containing the data
+# Plot Grade Distribution Over Time
+plot_grade_distribution_over_time(pulps_long)
+
+# Generate Word Cloud of Key Comments
+generate_word_cloud(pulps_long)
