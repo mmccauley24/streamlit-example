@@ -53,6 +53,13 @@ def filter_data(title_publisher, issue_num, search_term):
     else:
         return pulps_long  # Return all data if title_publisher is not selected
 
+# Function to generate and display word cloud
+def generate_wordcloud(text, title, ax):
+    wordcloud = WordCloud(width=800, height=400, background_color ='white').generate(text)
+    ax.imshow(wordcloud, interpolation='bilinear')
+    ax.set_title(f'Word Cloud for {title}')
+    ax.axis('off')
+
 # Define function to update the bar chart based on the selected title_publisher, issue number, and search term
 def update_plot(title_publisher1, title_publisher2, issue_num1, issue_num2, search_term1, search_term2):
     filtered_data1 = filter_data(title_publisher1, issue_num1, search_term1)
@@ -78,6 +85,8 @@ def update_plot(title_publisher1, title_publisher2, issue_num1, issue_num2, sear
         axes[0].legend()
         axes[0].text(0.5, -0.25, f'Weighted Average Grade: {weighted_avg_grade1}', fontsize=14, horizontalalignment='center', verticalalignment='center', transform=axes[0].transAxes)
         axes[0].text(0.5, -0.30, f'Total Graded: {total_graded1}', fontsize=14, horizontalalignment='center', verticalalignment='center', transform=axes[0].transAxes)
+        # Generate and display word cloud for Title 1
+        generate_wordcloud(filtered_data1['KeyComments'].str.cat(sep=' '), title_publisher1, axes[0])
 
     if not filtered_data2.empty:
         # Calculate total value for each grade for title 2
@@ -93,6 +102,8 @@ def update_plot(title_publisher1, title_publisher2, issue_num1, issue_num2, sear
         axes[1].legend()
         axes[1].text(0.5, -0.25, f'Weighted Average Grade: {weighted_avg_grade2}', fontsize=14, horizontalalignment='center', verticalalignment='center', transform=axes[1].transAxes)
         axes[1].text(0.5, -0.30, f'Total Graded: {total_graded2}', fontsize=14, horizontalalignment='center', verticalalignment='center', transform=axes[1].transAxes)
+        # Generate and display word cloud for Title 2
+        generate_wordcloud(filtered_data2['KeyComments'].str.cat(sep=' '), title_publisher2, axes[1])
 
     # Show plot
     st.pyplot(fig)
@@ -120,41 +131,3 @@ with col2:
 
 # Update plot
 update_plot(title_dropdown1, title_dropdown2, issue_num_dropdown1, issue_num_dropdown2, search_box1, search_box2)
-
-
-#### New section
-
-'''
-#Key Comment Wordcloud
-
-Distribution over time and wordcloud test
-
-'''
-
-# Grade Distribution Over Time
-def plot_grade_distribution_over_time(data):
-    plt.figure(figsize=(10, 6))
-    data.groupby('Issue_Year')['Grade'].mean().plot(marker='o', linestyle='-')
-    plt.title('Average Grade Over Time')
-    plt.xlabel('Year')
-    plt.ylabel('Average Grade')
-    plt.grid(True)
-    plt.show()
-
-# Word Cloud of Key Comments
-def generate_word_cloud(data):
-    key_comments_text = ' '.join(data['KeyComments'].dropna())
-    wordcloud = WordCloud(width=800, height=400, background_color='white').generate(key_comments_text)
-
-    plt.figure(figsize=(10, 6))
-    plt.imshow(wordcloud, interpolation='bilinear')
-    plt.title('Word Cloud of Key Comments')
-    plt.axis('off')
-    plt.show()
-
-# Assuming 'pulps_long' is the DataFrame containing the data
-# Plot Grade Distribution Over Time
-plot_grade_distribution_over_time(pulps_long)
-
-# Generate Word Cloud of Key Comments
-generate_word_cloud(pulps_long)
