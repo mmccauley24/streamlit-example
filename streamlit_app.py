@@ -28,11 +28,21 @@ pulps_long['Grade'] = pulps_long['Grade_Category'].str.replace('POP_', '').str.r
 pulps_long.drop('Grade_Category', axis=1)
 
 
-# Define function to filter data based on selected title, issue number, and search term
-def filter_data(title, issue_num, search_term):
-    filtered_data = pulps_long
-    if title:
-        filtered_data = filtered_data[filtered_data['Title'] == title]
+# Combine Title and Publisher into a new column
+pulps_long['Title_Publisher'] = pulps_long['Title'] + ' | ' + pulps_long['Publisher']
+
+# Get unique combinations of Title and Publisher
+unique_title_publisher = pulps_long['Title_Publisher'].unique()
+
+# Define function to split the Title and Publisher from the combined string
+def split_title_publisher(combined_str):
+    title, publisher = combined_str.split(' | ')
+    return title, publisher
+
+# Define function to filter data based on selected title_publisher, issue number, and search term
+def filter_data(title_publisher, issue_num, search_term):
+    title, publisher = split_title_publisher(title_publisher)
+    filtered_data = pulps_long[(pulps_long['Title'] == title) & (pulps_long['Publisher'] == publisher)]
     if issue_num:
         filtered_data = filtered_data[filtered_data['Issue_Num'] == issue_num]
     if search_term:
@@ -41,10 +51,10 @@ def filter_data(title, issue_num, search_term):
                                       (filtered_data['KeyComments'].str.lower().str.contains(search_term_lower, na=False))]
     return filtered_data
 
-# Define function to update the bar chart based on the selected titles, issue numbers, and search terms
-def update_plot(title1, title2, issue_num1, issue_num2, search_term1, search_term2):
-    filtered_data1 = filter_data(title1, issue_num1, search_term1)
-    filtered_data2 = filter_data(title2, issue_num2, search_term2)
+# Define function to update the bar chart based on the selected title_publisher, issue number, and search term
+def update_plot(title_publisher1, title_publisher2, issue_num1, issue_num2, search_term1, search_term2):
+    filtered_data1 = filter_data(title_publisher1, issue_num1, search_term1)
+    filtered_data2 = filter_data(title_publisher2, issue_num2, search_term2)
     if filtered_data1.empty and filtered_data2.empty:
         st.write("No data to display.")
         return
@@ -67,8 +77,8 @@ def update_plot(title1, title2, issue_num1, issue_num2, search_term1, search_ter
     fig, axes = plt.subplots(1, 2, figsize=(15, 6))
     
     if not filtered_data1.empty:
-        axes[0].bar(grade_totals1['Grade'], grade_totals1['Total Value'], width=0.4, color='skyblue', label=title1)
-        axes[0].set_title(title1, fontsize=20)
+        axes[0].bar(grade_totals1['Grade'], grade_totals1['Total Value'], width=0.4, color='skyblue', label=title_publisher1)
+        axes[0].set_title(title_publisher1, fontsize=20)
         axes[0].set_xlabel('Grade', fontsize=16)
         axes[0].set_ylabel('Total Value', fontsize=16)
         axes[0].set_xticks(np.arange(11))
@@ -77,8 +87,8 @@ def update_plot(title1, title2, issue_num1, issue_num2, search_term1, search_ter
         axes[0].text(0.5, -0.30, f'Total Graded: {total_graded1}', fontsize=14, horizontalalignment='center', verticalalignment='center', transform=axes[0].transAxes)
     
     if not filtered_data2.empty:
-        axes[1].bar(grade_totals2['Grade'], grade_totals2['Total Value'], width=0.4, color='orange', label=title2)
-        axes[1].set_title(title2, fontsize=20)
+        axes[1].bar(grade_totals2['Grade'], grade_totals2['Total Value'], width=0.4, color='orange', label=title_publisher2)
+        axes[1].set_title(title_publisher2, fontsize=20)
         axes[1].set_xlabel('Grade', fontsize=16)
         axes[1].set_ylabel('Total Value', fontsize=16)
         axes[1].set_xticks(np.arange(11))
@@ -93,13 +103,13 @@ def update_plot(title1, title2, issue_num1, issue_num2, search_term1, search_ter
 col1, col2 = st.columns(2)
 
 with col1:
-    title_dropdown1 = st.selectbox('Title 1:', [''] + list(pulps_long['Title'].unique()), key='title1')
-    issue_num_dropdown1 = st.selectbox('Issue Num for Title 1:', [''] if not title_dropdown1 else [''] + list(pulps_long[pulps_long['Title'] == title_dropdown1]['Issue_Num'].unique()), key='issue_num1')
+    title_dropdown1 = st.selectbox('Title 1:', [''] + list(unique_title_publisher), key='title1')
+    issue_num_dropdown1 = st.selectbox('Issue Num for Title 1:', [''], key='issue_num1')
     search_box1 = st.text_input('Search Term for Title 1:', key='search1')
 
 with col2:
-    title_dropdown2 = st.selectbox('Title 2:', [''] + list(pulps_long['Title'].unique()), key='title2')
-    issue_num_dropdown2 = st.selectbox('Issue Num for Title 2:', [''] if not title_dropdown2 else [''] + list(pulps_long[pulps_long['Title'] == title_dropdown2]['Issue_Num'].unique()), key='issue_num2')
+    title_dropdown2 = st.selectbox('Title 2:', [''] + list(unique_title_publisher), key='title2')
+    issue_num_dropdown2 = st.selectbox('Issue Num for Title 2:', [''], key='issue_num2')
     search_box2 = st.text_input('Search Term for Title 2:', key='search2')
 
 # Update plot
