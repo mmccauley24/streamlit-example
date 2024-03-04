@@ -110,12 +110,20 @@ col1, col2 = st.columns(2)
 
 with col1:
     title_dropdown1 = st.selectbox('Title 1:', [''] + list(unique_title_publisher), key='title1')
-    issue_num_dropdown1 = st.selectbox('Issue Num for Title 1:', [''], key='issue_num1')
+    if title_dropdown1:
+        filtered_issue_nums1 = pulps_long[(pulps_long['Title'] == title) & (pulps_long['Publisher'] == publisher)]['Issue_Num'].unique()
+        issue_num_dropdown1 = st.selectbox('Issue Num for Title 1:', [''] + list(filtered_issue_nums1), key='issue_num1')
+  # issue_num_dropdown1 = st.selectbox('Issue Num for Title 1:', [''], key='issue_num1')
     search_box1 = st.text_input('Search Term for Title 1:', key='search1')
+
+
 
 with col2:
     title_dropdown2 = st.selectbox('Title 2:', [''] + list(unique_title_publisher), key='title2')
-    issue_num_dropdown2 = st.selectbox('Issue Num for Title 2:', [''], key='issue_num2')
+    if title_dropdown2:
+        filtered_issue_nums2 = pulps_long[(pulps_long['Title'] == title) & (pulps_long['Publisher'] == publisher)]['Issue_Num'].unique()
+        issue_num_dropdown2 = st.selectbox('Issue Num for Title 2:', [''] + list(filtered_issue_nums1), key='issue_num2')
+    # issue_num_dropdown2 = st.selectbox('Issue Num for Title 2:', [''], key='issue_num2')
     search_box2 = st.text_input('Search Term for Title 2:', key='search2')
 
 # Update plot
