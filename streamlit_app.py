@@ -143,7 +143,7 @@ def plot_grade_distribution_over_time(data):
 
 # Word Cloud of Key Comments
 def generate_word_cloud(data):
-    key_comments_text = ' '.join(data['Key Comments'].dropna())
+    key_comments_text = ' '.join(data['KeyComments'].dropna())
     wordcloud = WordCloud(width=800, height=400, background_color='white').generate(key_comments_text)
 
     plt.figure(figsize=(10, 6))
