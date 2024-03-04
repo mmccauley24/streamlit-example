@@ -5,6 +5,7 @@ import streamlit as st
 
 # Read data
 pulps = pd.read_csv('CGC_POPULATION.csv')
+pulps = pulps.drop(pulps.columns[-1], axis=1)
 
 # Melt data
 pulps_long = pd.melt(pulps, id_vars=['ComicID', 'Title', 'Issue_Num', 'Issue_Date', 'Issue_Year', 'Publisher',
