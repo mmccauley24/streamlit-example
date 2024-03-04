@@ -5,7 +5,7 @@ import streamlit as st
 from wordcloud import WordCloud
 
 '''
-# CGC Analytics
+#CGC Analytics
 
 Choose two titles to compare grade distributions of Universal CGC graded comics and pulps
 
@@ -53,13 +53,6 @@ def filter_data(title_publisher, issue_num, search_term):
     else:
         return pulps_long  # Return all data if title_publisher is not selected
 
-# Function to generate and display word cloud
-def generate_wordcloud(text, title, ax):
-    wordcloud = WordCloud(width=800, height=400, background_color ='white').generate(text)
-    ax.imshow(wordcloud, interpolation='bilinear')
-    ax.set_title(f'Word Cloud for {title}')
-    ax.axis('off')
-
 # Define function to update the bar chart based on the selected title_publisher, issue number, and search term
 def update_plot(title_publisher1, title_publisher2, issue_num1, issue_num2, search_term1, search_term2):
     filtered_data1 = filter_data(title_publisher1, issue_num1, search_term1)
@@ -85,8 +78,6 @@ def update_plot(title_publisher1, title_publisher2, issue_num1, issue_num2, sear
         axes[0].legend()
         axes[0].text(0.5, -0.25, f'Weighted Average Grade: {weighted_avg_grade1}', fontsize=14, horizontalalignment='center', verticalalignment='center', transform=axes[0].transAxes)
         axes[0].text(0.5, -0.30, f'Total Graded: {total_graded1}', fontsize=14, horizontalalignment='center', verticalalignment='center', transform=axes[0].transAxes)
-        # Generate and display word cloud for Title 1
-        generate_wordcloud(filtered_data1['KeyComments'].str.cat(sep=' '), title_publisher1, axes[0])
 
     if not filtered_data2.empty:
         # Calculate total value for each grade for title 2
@@ -102,8 +93,6 @@ def update_plot(title_publisher1, title_publisher2, issue_num1, issue_num2, sear
         axes[1].legend()
         axes[1].text(0.5, -0.25, f'Weighted Average Grade: {weighted_avg_grade2}', fontsize=14, horizontalalignment='center', verticalalignment='center', transform=axes[1].transAxes)
         axes[1].text(0.5, -0.30, f'Total Graded: {total_graded2}', fontsize=14, horizontalalignment='center', verticalalignment='center', transform=axes[1].transAxes)
-        # Generate and display word cloud for Title 2
-        generate_wordcloud(filtered_data2['KeyComments'].str.cat(sep=' '), title_publisher2, axes[1])
 
     # Show plot
     st.pyplot(fig)
