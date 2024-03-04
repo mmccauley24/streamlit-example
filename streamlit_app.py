@@ -34,16 +34,10 @@ pulps_long['Title_Publisher'] = pulps_long['Title'] + ' | ' + pulps_long['Publis
 # Get unique combinations of Title and Publisher
 unique_title_publisher = pulps_long['Title_Publisher'].unique()
 
-# Function to split combined Title and Publisher
+# Define function to split the Title and Publisher from the combined string
 def split_title_publisher(combined_str):
-    if not combined_str:
-        return None, None
-    elif ' | ' in combined_str:
-        title, publisher = combined_str.split(' | ')
-        return title.strip(), publisher.strip()
-    else:
-        # If the combination is not in the expected format, return None for both
-        return None, None
+    title, publisher = combined_str.split(' | ')
+    return title, publisher
 
 # Define function to filter data based on selected title_publisher, issue number, and search term
 def filter_data(title_publisher, issue_num, search_term):
@@ -110,22 +104,12 @@ col1, col2 = st.columns(2)
 
 with col1:
     title_dropdown1 = st.selectbox('Title 1:', [''] + list(unique_title_publisher), key='title1')
-    if title_dropdown1:
-        title1, publisher1 = split_title_publisher(title_dropdown1)    
-        filtered_issue_nums1 = pulps_long[(pulps_long['Title'] == title1) & (pulps_long['Publisher'] == publisher1)]['Issue_Num'].unique()
-        issue_num_dropdown1 = st.selectbox('Issue Num for Title 1:', [''] + list(filtered_issue_nums1), key='issue_num1')
-  # issue_num_dropdown1 = st.selectbox('Issue Num for Title 1:', [''], key='issue_num1')
+    issue_num_dropdown1 = st.selectbox('Issue Num for Title 1:', [''], key='issue_num1')
     search_box1 = st.text_input('Search Term for Title 1:', key='search1')
-
-
 
 with col2:
     title_dropdown2 = st.selectbox('Title 2:', [''] + list(unique_title_publisher), key='title2')
-    if title_dropdown2:
-        title2, publisher2 = split_title_publisher(title_dropdown2)    
-        filtered_issue_nums2 = pulps_long[(pulps_long['Title'] == title2) & (pulps_long['Publisher'] == publisher2)]['Issue_Num'].unique()
-        issue_num_dropdown2 = st.selectbox('Issue Num for Title 2:', [''] + list(filtered_issue_nums1), key='issue_num2')
-    # issue_num_dropdown2 = st.selectbox('Issue Num for Title 2:', [''], key='issue_num2')
+    issue_num_dropdown2 = st.selectbox('Issue Num for Title 2:', [''], key='issue_num2')
     search_box2 = st.text_input('Search Term for Title 2:', key='search2')
 
 # Update plot
