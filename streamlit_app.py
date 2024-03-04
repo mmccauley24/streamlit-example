@@ -5,7 +5,7 @@ import streamlit as st
 from wordcloud import WordCloud
 
 '''
-#CGC Analytics
+# CGC Analytics
 
 Choose two titles to compare grade distributions of Universal CGC graded comics and pulps
 
