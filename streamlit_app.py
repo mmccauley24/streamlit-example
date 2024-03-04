@@ -93,13 +93,21 @@ def update_plot(title_publisher1, title_publisher2, issue_num1, issue_num2, sear
 col1, col2 = st.columns(2)
 
 with col1:
-    title_dropdown1 = st.selectbox('Title 1:', [''] + list(unique_title_publisher), key='title1')
-    issue_num_dropdown1 = st.selectbox('Issue Num for Title 1:', ['All'], key='issue_num1')
+    title_dropdown1 = st.selectbox('Title 1:', ['All'] + list(unique_title_publisher), key='title1')
+    if title_dropdown1 != 'All':
+        issue_nums1 = pulps_long[pulps_long['Title_Publisher'] == title_dropdown1]['Issue_Num'].unique()
+        issue_num_dropdown1 = st.selectbox('Issue Num for Title 1:', ['All'] + list(issue_nums1), key='issue_num1')
+    else:
+        issue_num_dropdown1 = st.selectbox('Issue Num for Title 1:', ['All'], key='issue_num1')
     search_box1 = st.text_input('Search Term for Title 1:', key='search1')
 
 with col2:
-    title_dropdown2 = st.selectbox('Title 2:', [''] + list(unique_title_publisher), key='title2')
-    issue_num_dropdown2 = st.selectbox('Issue Num for Title 2:', ['All'], key='issue_num2')
+    title_dropdown2 = st.selectbox('Title 2:', ['All'] + list(unique_title_publisher), key='title2')
+    if title_dropdown2 != 'All':
+        issue_nums2 = pulps_long[pulps_long['Title_Publisher'] == title_dropdown2]['Issue_Num'].unique()
+        issue_num_dropdown2 = st.selectbox('Issue Num for Title 2:', ['All'] + list(issue_nums2), key='issue_num2')
+    else:
+        issue_num_dropdown2 = st.selectbox('Issue Num for Title 2:', ['All'], key='issue_num2')
     search_box2 = st.text_input('Search Term for Title 2:', key='search2')
 
 # Update plot
