@@ -34,10 +34,16 @@ pulps_long['Title_Publisher'] = pulps_long['Title'] + ' | ' + pulps_long['Publis
 # Get unique combinations of Title and Publisher
 unique_title_publisher = pulps_long['Title_Publisher'].unique()
 
-# Define function to split the Title and Publisher from the combined string
+# Function to split combined Title and Publisher
 def split_title_publisher(combined_str):
-    title, publisher = combined_str.split(' | ')
-    return title, publisher
+    if not combined_str:
+        return None, None
+    elif ' | ' in combined_str:
+        title, publisher = combined_str.split(' | ')
+        return title.strip(), publisher.strip()
+    else:
+        # If the combination is not in the expected format, return None for both
+        return None, None
 
 # Define function to filter data based on selected title_publisher, issue number, and search term
 def filter_data(title_publisher, issue_num, search_term):
