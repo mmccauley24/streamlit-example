@@ -5,9 +5,10 @@ import streamlit as st
 from wordcloud import WordCloud
 
 '''
-# CGC Analytics
+#CGC Analytics
 
 Choose two titles to compare grade distributions of Universal CGC graded comics and pulps
+
 '''
 
 # Read data
@@ -78,13 +79,6 @@ def update_plot(title_publisher1, title_publisher2, issue_num1, issue_num2, sear
         axes[0].text(0.5, -0.25, f'Weighted Average Grade: {weighted_avg_grade1}', fontsize=14, horizontalalignment='center', verticalalignment='center', transform=axes[0].transAxes)
         axes[0].text(0.5, -0.30, f'Total Graded: {total_graded1}', fontsize=14, horizontalalignment='center', verticalalignment='center', transform=axes[0].transAxes)
 
-        # Display 10 most common words in ArtComments for title 1
-        st.subheader("Top 10 Most Common Words in ArtComments for Title 1")
-        art_comments1 = filtered_data1['ArtComments'].dropna()
-        if not art_comments1.empty:
-            word_freq_art1 = pd.Series(' '.join(art_comments1).split()).value_counts()[:10]
-            st.table(word_freq_art1.reset_index().rename(columns={'index': 'Word', 0: 'Frequency'}))
-
     if not filtered_data2.empty:
         # Calculate total value for each grade for title 2
         grade_totals2 = filtered_data2.groupby('Grade')['Value'].sum().reset_index(name='Total Value')
@@ -99,13 +93,6 @@ def update_plot(title_publisher1, title_publisher2, issue_num1, issue_num2, sear
         axes[1].legend()
         axes[1].text(0.5, -0.25, f'Weighted Average Grade: {weighted_avg_grade2}', fontsize=14, horizontalalignment='center', verticalalignment='center', transform=axes[1].transAxes)
         axes[1].text(0.5, -0.30, f'Total Graded: {total_graded2}', fontsize=14, horizontalalignment='center', verticalalignment='center', transform=axes[1].transAxes)
-
-        # Display 10 most common words in ArtComments for title 2
-        st.subheader("Top 10 Most Common Words in ArtComments for Title 2")
-        art_comments2 = filtered_data2['ArtComments'].dropna()
-        if not art_comments2.empty:
-            word_freq_art2 = pd.Series(' '.join(art_comments2).split()).value_counts()[:10]
-            st.table(word_freq_art2.reset_index().rename(columns={'index': 'Word', 0: 'Frequency'}))
 
     # Show plot
     st.pyplot(fig)
