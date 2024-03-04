@@ -134,7 +134,7 @@ Distribution over time and wordcloud test
 # Grade Distribution Over Time
 def plot_grade_distribution_over_time(data):
     plt.figure(figsize=(10, 6))
-    data.groupby('Year')['Grade'].mean().plot(marker='o', linestyle='-')
+    data.groupby('Issue_Year')['Grade'].mean().plot(marker='o', linestyle='-')
     plt.title('Average Grade Over Time')
     plt.xlabel('Year')
     plt.ylabel('Average Grade')
