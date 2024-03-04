@@ -5,10 +5,9 @@ import streamlit as st
 from wordcloud import WordCloud
 
 '''
-#CGC Analytics
+# CGC Analytics
 
 Choose two titles to compare grade distributions of Universal CGC graded comics and pulps
-
 '''
 
 # Read data
@@ -79,6 +78,18 @@ def update_plot(title_publisher1, title_publisher2, issue_num1, issue_num2, sear
         axes[0].text(0.5, -0.25, f'Weighted Average Grade: {weighted_avg_grade1}', fontsize=14, horizontalalignment='center', verticalalignment='center', transform=axes[0].transAxes)
         axes[0].text(0.5, -0.30, f'Total Graded: {total_graded1}', fontsize=14, horizontalalignment='center', verticalalignment='center', transform=axes[0].transAxes)
 
+        # Add WordCloud for ArtComments
+        wordcloud_art1 = WordCloud(width=800, height=400, background_color='white').generate(' '.join(filtered_data1['ArtComments'].dropna()))
+        plt.imshow(wordcloud_art1, interpolation='bilinear')
+        plt.axis('off')
+        st.pyplot()
+
+        # Add WordCloud for KeyComments
+        wordcloud_key1 = WordCloud(width=800, height=400, background_color='white').generate(' '.join(filtered_data1['KeyComments'].dropna()))
+        plt.imshow(wordcloud_key1, interpolation='bilinear')
+        plt.axis('off')
+        st.pyplot()
+
     if not filtered_data2.empty:
         # Calculate total value for each grade for title 2
         grade_totals2 = filtered_data2.groupby('Grade')['Value'].sum().reset_index(name='Total Value')
@@ -93,6 +104,18 @@ def update_plot(title_publisher1, title_publisher2, issue_num1, issue_num2, sear
         axes[1].legend()
         axes[1].text(0.5, -0.25, f'Weighted Average Grade: {weighted_avg_grade2}', fontsize=14, horizontalalignment='center', verticalalignment='center', transform=axes[1].transAxes)
         axes[1].text(0.5, -0.30, f'Total Graded: {total_graded2}', fontsize=14, horizontalalignment='center', verticalalignment='center', transform=axes[1].transAxes)
+
+        # Add WordCloud for ArtComments
+        wordcloud_art2 = WordCloud(width=800, height=400, background_color='white').generate(' '.join(filtered_data2['ArtComments'].dropna()))
+        plt.imshow(wordcloud_art2, interpolation='bilinear')
+        plt.axis('off')
+        st.pyplot()
+
+        # Add WordCloud for KeyComments
+        wordcloud_key2 = WordCloud(width=800, height=400, background_color='white').generate(' '.join(filtered_data2['KeyComments'].dropna()))
+        plt.imshow(wordcloud_key2, interpolation='bilinear')
+        plt.axis('off')
+        st.pyplot()
 
     # Show plot
     st.pyplot(fig)
