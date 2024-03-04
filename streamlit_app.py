@@ -37,10 +37,11 @@ def filter_data(title_publisher, issue_num, search_term):
         filtered_data = pulps_long[(pulps_long['Title'] == title) & (pulps_long['Publisher'] == publisher)]
         if issue_num != 'All':
             filtered_data = filtered_data[filtered_data['Issue_Num'] == issue_num]
-        if search_term:
-            search_term_lower = search_term.lower()
-            filtered_data = filtered_data[(filtered_data['ArtComments'].str.lower().str.contains(search_term_lower, na=False)) |
-                                          (filtered_data['KeyComments'].str.lower().str.contains(search_term_lower, na=False))]
+        return filtered_data
+    if search_term:
+        search_term_lower = search_term.lower()
+        filtered_data = filtered_data[(filtered_data['ArtComments'].str.lower().str.contains(search_term_lower, na=False)) |
+                                      (filtered_data['KeyComments'].str.lower().str.contains(search_term_lower, na=False))]
         return filtered_data
     else:
         return pulps_long  # Return all data if title_publisher is not selected
